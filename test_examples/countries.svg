@@ -1,0 +1,775 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+  <g id="node-AFG">
+    <path d="M1074.882254502238,329.7948264434632 L1057.5617464265492,319.7948264434632 L1057.5617464265492,299.7948264434632 L1074.882254502238,289.7948264434632 L1092.202762577927,299.7948264434632 L1092.202762577927,319.7948264434632 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1074.882254502238" y="309.7948264434632" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">AFG</text>
+  </g>
+  <g id="node-AGO">
+    <path d="M865.3071564432905,639.5091169484072 L847.9866483676018,629.5091169484072 L847.9866483676018,609.5091169484072 L865.3071564432905,599.5091169484072 L882.6276645189793,609.5091169484072 L882.6276645189793,629.5091169484072 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="865.3071564432905" y="619.5091169484072" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">AGO</text>
+  </g>
+  <g id="node-ALB">
+    <path d="M908.1216855069175,298.2750647459752 L890.8011774312288,288.2750647459752 L890.8011774312288,268.2750647459752 L908.1216855069175,258.2750647459752 L925.4421935826063,268.2750647459752 L925.4421935826063,288.2750647459752 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="908.1216855069175" y="278.2750647459752" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ALB</text>
+  </g>
+  <g id="node-AND">
+    <path d="M747.2242153434764,254.1250957831894 L729.9037072677877,244.1250957831894 L729.9037072677877,224.1250957831894 L747.2242153434764,214.1250957831894 L764.5447234191652,224.1250957831894 L764.5447234191652,244.12509578318944 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="747.2242153434764" y="234.1250957831894" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">AND</text>
+  </g>
+  <g id="node-ARE">
+    <path d="M1033.0464518593926,417.05786834882025 L1015.7259437837039,407.05786834882025 L1015.7259437837039,387.05786834882025 L1033.0464518593926,377.05786834882025 L1050.3669599350815,387.05786834882025 L1050.3669599350815,407.05786834882025 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1033.0464518593926" y="397.05786834882025" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ARE</text>
+  </g>
+  <g id="node-ARG">
+    <path d="M529.0425093528305,791.9840529421608 L511.7220012771417,781.9840529421608 L511.7220012771417,761.9840529421608 L529.0425093528305,751.9840529421608 L546.3630174285192,761.9840529421608 L546.3630174285192,781.9840529421608 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="529.0425093528305" y="771.9840529421608" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ARG</text>
+  </g>
+  <g id="node-ARM">
+    <path d="M1004.757957365114,258.2792918873485 L987.4374492894252,248.2792918873485 L987.4374492894252,228.2792918873485 L1004.757957365114,218.2792918873485 L1022.0784654408027,228.2792918873485 L1022.0784654408027,248.27929188734853 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1004.757957365114" y="238.2792918873485" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ARM</text>
+  </g>
+  <g id="node-ATG">
+    <path d="M545.6133932862614,407.30596065756623 L528.2928852105726,397.30596065756623 L528.2928852105726,377.30596065756623 L545.6133932862614,367.30596065756623 L562.9339013619501,377.30596065756623 L562.9339013619501,397.30596065756623 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="545.6133932862614" y="387.30596065756623" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ATG</text>
+  </g>
+  <g id="node-AUS">
+    <path d="M1336.0,742.0 L1318.6794919243112,732.0 L1318.6794919243112,712.0 L1336.0,702.0 L1353.3205080756888,712.0 L1353.3205080756888,732.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1336" y="722" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">AUS</text>
+  </g>
+  <g id="node-AUT">
+    <path d="M832.6354005307707,243.76779684712517 L815.3148924550819,233.76779684712517 L815.3148924550819,213.76779684712517 L832.6354005307707,203.76779684712517 L849.9559086064594,213.76779684712517 L849.9559086064594,233.7677968471252 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="832.6354005307707" y="223.76779684712517" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">AUT</text>
+  </g>
+  <g id="node-AZE">
+    <path d="M1012.5139022332448,298.0764920860842 L995.1933941575561,288.0764920860842 L995.1933941575561,268.0764920860842 L1012.5139022332448,258.0764920860842 L1029.8344103089337,268.0764920860842 L1029.8344103089337,288.0764920860842 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1012.5139022332448" y="278.0764920860842" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">AZE</text>
+  </g>
+  <g id="node-BDI">
+    <path d="M892.1051336226128,592.0984693272857 L874.7846255469241,582.0984693272857 L874.7846255469241,562.0984693272857 L892.1051336226128,552.0984693272857 L909.4256416983015,562.0984693272857 L909.4256416983015,582.0984693272857 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="892.1051336226128" y="572.0984693272857" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BDI</text>
+  </g>
+  <g id="node-BEL">
+    <path d="M786.5210580795655,206.4765909121772 L769.2005500038767,196.4765909121772 L769.2005500038767,176.4765909121772 L786.5210580795655,166.4765909121772 L803.8415661552542,176.4765909121772 L803.8415661552542,196.47659091217722 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="786.5210580795655" y="186.4765909121772" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BEL</text>
+  </g>
+  <g id="node-BEN">
+    <path d="M802.5298864799576,462.6094473496963 L785.2093784042688,452.6094473496963 L785.2093784042688,432.6094473496963 L802.5298864799576,422.6094473496963 L819.8503945556463,432.6094473496963 L819.8503945556463,452.6094473496963 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="802.5298864799576" y="442.6094473496963" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BEN</text>
+  </g>
+  <g id="node-BFA">
+    <path d="M762.0849839876336,462.5808924566543 L744.7644759119448,452.5808924566543 L744.7644759119448,432.5808924566543 L762.0849839876336,422.5808924566543 L779.4054920633223,432.5808924566543 L779.4054920633223,452.5808924566543 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="762.0849839876336" y="442.5808924566543" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BFA</text>
+  </g>
+  <g id="node-BGD">
+    <path d="M1151.2298475016885,389.4522047785263 L1133.9093394259996,379.4522047785263 L1133.9093394259996,359.4522047785263 L1151.2298475016885,349.4522047785263 L1168.5503555773773,359.4522047785263 L1168.5503555773773,379.4522047785263 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1151.2298475016885" y="369.4522047785263" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BGD</text>
+  </g>
+  <g id="node-BGR">
+    <path d="M871.4145879004267,233.1207125616927 L854.094079824738,223.1207125616927 L854.094079824738,203.1207125616927 L871.4145879004267,193.1207125616927 L888.7350959761154,203.1207125616927 L888.7350959761154,223.12071256169273 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="871.4145879004267" y="213.1207125616927" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BGR</text>
+  </g>
+  <g id="node-BHR">
+    <path d="M1022.3233167975096,337.6772945858964 L1005.0028087218209,327.6772945858964 L1005.0028087218209,307.6772945858964 L1022.3233167975096,297.6772945858964 L1039.6438248731984,307.6772945858964 L1039.6438248731984,327.6772945858964 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1022.3233167975096" y="317.6772945858964" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BHR</text>
+  </g>
+  <g id="node-BHS">
+    <path d="M494.901159934251,349.41084318691344 L477.5806518585622,339.41084318691344 L477.5806518585622,319.41084318691344 L494.901159934251,309.41084318691344 L512.2216680099398,319.41084318691344 L512.2216680099398,339.41084318691344 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="494.901159934251" y="329.41084318691344" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BHS</text>
+  </g>
+  <g id="node-BIH">
+    <path d="M864.4303196301374,273.075803175499 L847.1098115544487,263.075803175499 L847.1098115544487,243.075803175499 L864.4303196301374,233.07580317549898 L881.7508277058262,243.07580317549898 L881.7508277058262,263.075803175499 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="864.4303196301374" y="253.07580317549898" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BIH</text>
+  </g>
+  <g id="node-BLR">
+    <path d="M950.0477513525005,163.56111036177808 L932.7272432768118,153.56111036177808 L932.7272432768118,133.5611103617781 L950.0477513525005,123.56111036177808 L967.3682594281893,133.56111036177808 L967.3682594281893,153.5611103617781 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="950.0477513525005" y="143.56111036177808" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BLR</text>
+  </g>
+  <g id="node-BLZ">
+    <path d="M415.1193429007517,400.71664950897093 L397.7988348250629,390.71664950897093 L397.7988348250629,370.71664950897093 L415.1193429007517,360.71664950897093 L432.4398509764405,370.71664950897093 L432.4398509764404,390.71664950897093 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="415.1193429007517" y="380.71664950897093" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BLZ</text>
+  </g>
+  <g id="node-BOL">
+    <path d="M528.0,672.0 L510.6794919243112,662.0 L510.6794919243112,642.0 L528.0,632.0 L545.3205080756887,642.0 L545.3205080756887,662.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="528" y="652" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BOL</text>
+  </g>
+  <g id="node-BRA">
+    <path d="M569.0,623.0 L551.6794919243113,613.0 L551.6794919243113,593.0 L569.0,583.0 L586.3205080756887,593.0 L586.3205080756887,613.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="569" y="603" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BRA</text>
+  </g>
+  <g id="node-BRB">
+    <path d="M574.9627795043307,473.26696710734547 L557.642271428642,463.26696710734547 L557.642271428642,443.26696710734547 L574.9627795043307,433.26696710734547 L592.2832875800194,443.26696710734547 L592.2832875800194,463.26696710734547 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="574.9627795043307" y="453.26696710734547" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BRB</text>
+  </g>
+  <g id="node-BRN">
+    <path d="M1266.4169453959512,509.57138263180417 L1249.0964373202623,499.57138263180417 L1249.0964373202623,479.57138263180417 L1266.4169453959512,469.57138263180417 L1283.73745347164,479.57138263180417 L1283.73745347164,499.57138263180417 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1266.4169453959512" y="489.57138263180417" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BRN</text>
+  </g>
+  <g id="node-BTN">
+    <path d="M1171.2855093822961,351.8482381961493 L1153.9650013066073,341.8482381961493 L1153.9650013066073,321.8482381961493 L1171.2855093822961,311.8482381961493 L1188.606017457985,321.8482381961493 L1188.606017457985,341.8482381961493 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1171.2855093822961" y="331.8482381961493" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BTN</text>
+  </g>
+  <g id="node-BWA">
+    <path d="M881.9023574467751,715.5544805695749 L864.5818493710864,705.5544805695749 L864.5818493710864,685.5544805695749 L881.9023574467751,675.5544805695749 L899.2228655224638,685.5544805695749 L899.2228655224638,705.5544805695749 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="881.9023574467751" y="695.5544805695749" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">BWA</text>
+  </g>
+  <g id="node-CAF">
+    <path d="M880.8372440087751,496.4656215145775 L863.5167359330864,486.4656215145775 L863.5167359330864,466.4656215145775 L880.8372440087751,456.4656215145775 L898.1577520844638,466.4656215145775 L898.1577520844638,486.4656215145775 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="880.8372440087751" y="476.4656215145775" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CAF</text>
+  </g>
+  <g id="node-CAN">
+    <path d="M406.0,134.0 L388.6794919243112,124.0 L388.6794919243112,104.00000000000001 L406.0,94.0 L423.3205080756888,103.99999999999999 L423.32050807568874,124.00000000000001 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="406" y="114" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CAN</text>
+  </g>
+  <g id="node-CHE">
+    <path d="M784.8872845056227,285.991080719209 L767.566776429934,275.991080719209 L767.566776429934,255.99108071920898 L784.8872845056227,245.99108071920898 L802.2077925813114,255.99108071920898 L802.2077925813114,275.991080719209 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="784.8872845056227" y="265.991080719209" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CHE</text>
+  </g>
+  <g id="node-CHL">
+    <path d="M502.3657623727486,761.2586998399285 L485.0452542970598,751.2586998399285 L485.0452542970598,731.2586998399285 L502.3657623727486,721.2586998399285 L519.6862704484373,731.2586998399285 L519.6862704484373,751.2586998399285 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="502.3657623727486" y="741.2586998399285" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CHL</text>
+  </g>
+  <g id="node-CHN">
+    <path d="M1221.0,309.0 L1203.6794919243112,299.0 L1203.6794919243112,279.0 L1221.0,269.0 L1238.3205080756888,279.0 L1238.3205080756888,299.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1221" y="289" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CHN</text>
+  </g>
+  <g id="node-CIV">
+    <path d="M749.3472763255517,501.1052131411655 L732.0267682498629,491.1052131411655 L732.0267682498629,471.1052131411655 L749.3472763255517,461.1052131411655 L766.6677844012404,471.1052131411655 L766.6677844012404,491.1052131411655 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="749.3472763255517" y="481.1052131411655" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CIV</text>
+  </g>
+  <g id="node-CMR">
+    <path d="M848.3331679725298,520.8211705042115 L831.0126598968411,510.8211705042116 L831.0126598968411,490.8211705042116 L848.3331679725298,480.8211705042116 L865.6536760482186,490.8211705042116 L865.6536760482186,510.8211705042116 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="848.3331679725298" y="500.8211705042116" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CMR</text>
+  </g>
+  <g id="node-COD">
+    <path d="M884.9241676764724,538.222987246356 L867.6036596007837,528.222987246356 L867.6036596007837,508.22298724635596 L884.9241676764724,498.22298724635596 L902.2446757521611,508.22298724635596 L902.2446757521611,528.222987246356 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="884.9241676764724" y="518.222987246356" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">COD</text>
+  </g>
+  <g id="node-COG">
+    <path d="M858.5115683071797,568.956760211524 L841.191060231491,558.956760211524 L841.191060231491,538.956760211524 L858.5115683071797,528.956760211524 L875.8320763828684,538.956760211524 L875.8320763828684,558.956760211524 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="858.5115683071797" y="548.956760211524" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">COG</text>
+  </g>
+  <g id="node-COL">
+    <path d="M500.3069543890351,555.5280970927718 L482.98644631334633,545.5280970927718 L482.98644631334633,525.5280970927718 L500.3069543890351,515.5280970927718 L517.6274624647239,525.5280970927718 L517.6274624647239,545.5280970927718 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="500.3069543890351" y="535.5280970927718" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">COL</text>
+  </g>
+  <g id="node-COM">
+    <path d="M978.4845409927179,640.2693020703072 L961.1640329170292,630.2693020703072 L961.1640329170292,610.2693020703072 L978.4845409927179,600.2693020703072 L995.8050490684067,610.2693020703072 L995.8050490684067,630.2693020703072 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="978.4845409927179" y="620.2693020703072" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">COM</text>
+  </g>
+  <g id="node-CPV">
+    <path d="M894.7560239729098,425.44420207280945 L877.4355158972211,415.44420207280945 L877.4355158972211,395.44420207280945 L894.7560239729098,385.44420207280945 L912.0765320485986,395.44420207280945 L912.0765320485986,415.44420207280945 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="894.7560239729098" y="405.44420207280945" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CPV</text>
+  </g>
+  <g id="node-CRI">
+    <path d="M426.7828321043585,496.0558062182246 L409.4623240286697,486.0558062182246 L409.4623240286697,466.0558062182246 L426.7828321043585,456.0558062182246 L444.10334018004727,466.0558062182246 L444.1033401800472,486.0558062182246 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="426.7828321043585" y="476.0558062182246" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CRI</text>
+  </g>
+  <g id="node-CUB">
+    <path d="M441.4590413860022,370.5499126983495 L424.1385333103134,360.5499126983495 L424.1385333103134,340.5499126983495 L441.4590413860022,330.5499126983495 L458.779549461691,340.5499126983495 L458.779549461691,360.5499126983495 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="441.4590413860022" y="350.5499126983495" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CUB</text>
+  </g>
+  <g id="node-CYP">
+    <path d="M902.8954708980875,339.80996082267944 L885.5749628223988,329.80996082267944 L885.5749628223988,309.80996082267944 L902.8954708980875,299.80996082267944 L920.2159789737763,309.80996082267944 L920.2159789737763,329.80996082267944 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="902.8954708980875" y="319.80996082267944" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CYP</text>
+  </g>
+  <g id="node-CZE">
+    <path d="M832.1978270830799,140.53126043472736 L814.8773190073912,130.53126043472736 L814.8773190073912,110.53126043472736 L832.1978270830799,100.53126043472734 L849.5183351587687,110.53126043472733 L849.5183351587687,130.53126043472736 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="832.1978270830799" y="120.53126043472734" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">CZE</text>
+  </g>
+  <g id="node-DEU">
+    <path d="M761.1930232820436,175.0852296385659 L743.8725152063548,165.0852296385659 L743.8725152063548,145.08522963856592 L761.1930232820436,135.0852296385659 L778.5135313577323,145.0852296385659 L778.5135313577323,165.08522963856592 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="761.1930232820436" y="155.0852296385659" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">DEU</text>
+  </g>
+  <g id="node-DJI">
+    <path d="M969.4121827072005,482.6282727983479 L952.0916746315118,472.6282727983479 L952.0916746315118,452.6282727983479 L969.4121827072005,442.6282727983479 L986.7326907828892,452.6282727983479 L986.7326907828892,472.6282727983479 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="969.4121827072005" y="462.6282727983479" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">DJI</text>
+  </g>
+  <g id="node-DMA">
+    <path d="M537.8063580543899,447.7372320290407 L520.4858499787011,437.7372320290407 L520.4858499787011,417.7372320290407 L537.8063580543899,407.7372320290407 L555.1268661300786,417.7372320290407 L555.1268661300786,437.7372320290407 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="537.8063580543899" y="427.7372320290407" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">DMA</text>
+  </g>
+  <g id="node-DNK">
+    <path d="M818.5785362920378,102.74380590143811 L801.2580282163491,92.74380590143812 L801.2580282163491,72.74380590143812 L818.5785362920378,62.74380590143811 L835.8990443677266,72.7438059014381 L835.8990443677266,92.74380590143812 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="818.5785362920378" y="82.74380590143811" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">DNK</text>
+  </g>
+  <g id="node-DOM">
+    <path d="M506.1622821271243,415.8481340671429 L488.8417740514355,405.8481340671429 L488.8417740514355,385.8481340671429 L506.1622821271243,375.8481340671429 L523.482790202813,385.8481340671429 L523.482790202813,405.8481340671429 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="506.1622821271243" y="395.8481340671429" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">DOM</text>
+  </g>
+  <g id="node-DZA">
+    <path d="M804.4833362410841,406.3017020389165 L787.1628281653954,396.3017020389165 L787.1628281653954,376.3017020389165 L804.4833362410841,366.3017020389165 L821.8038443167728,376.3017020389165 L821.8038443167728,396.3017020389165 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="804.4833362410841" y="386.3017020389165" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">DZA</text>
+  </g>
+  <g id="node-ECU">
+    <path d="M467.76869605194054,579.3010401226893 L450.44818797625175,569.3010401226893 L450.44818797625175,549.3010401226893 L467.76869605194054,539.3010401226893 L485.08920412762933,549.3010401226893 L485.0892041276293,569.3010401226893 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="467.76869605194054" y="559.3010401226893" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ECU</text>
+  </g>
+  <g id="node-EGY">
+    <path d="M882.8072253754112,387.09234099034757 L865.4867172997225,377.09234099034757 L865.4867172997225,357.09234099034757 L882.8072253754112,347.09234099034757 L900.1277334511,357.09234099034757 L900.1277334511,377.09234099034757 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="882.8072253754112" y="367.09234099034757" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">EGY</text>
+  </g>
+  <g id="node-ERI">
+    <path d="M962.2425448077961,443.2206041011759 L944.9220367321074,433.2206041011759 L944.9220367321074,413.2206041011759 L962.2425448077961,403.2206041011759 L979.5630528834848,413.2206041011759 L979.5630528834848,433.2206041011759 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="962.2425448077961" y="423.2206041011759" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ERI</text>
+  </g>
+  <g id="node-ESP">
+    <path d="M713.5350362652686,322.0421523720228 L696.2145281895798,312.0421523720228 L696.2145281895798,292.0421523720228 L713.5350362652686,282.0421523720228 L730.8555443409573,292.0421523720228 L730.8555443409573,312.0421523720228 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="713.5350362652686" y="302.0421523720228" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ESP</text>
+  </g>
+  <g id="node-EST">
+    <path d="M954.9051245554011,114.77559496777259 L937.5846164797124,104.7755949677726 L937.5846164797124,84.7755949677726 L954.9051245554011,74.77559496777259 L972.2256326310899,84.77559496777258 L972.2256326310899,104.7755949677726 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="954.9051245554011" y="94.77559496777259" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">EST</text>
+  </g>
+  <g id="node-ETH">
+    <path d="M960.607275060742,522.2034059188209 L943.2867669850533,512.2034059188209 L943.2867669850533,492.2034059188208 L960.607275060742,482.2034059188208 L977.9277831364308,492.2034059188208 L977.9277831364308,512.2034059188209 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="960.607275060742" y="502.2034059188208" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ETH</text>
+  </g>
+  <g id="node-FIN">
+    <path d="M902.8101044183355,100.0 L885.4895963426468,90.0 L885.4895963426468,70.00000000000001 L902.8101044183355,60.0 L920.1306124940243,69.99999999999999 L920.1306124940243,90.00000000000001 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="902.8101044183355" y="80" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">FIN</text>
+  </g>
+  <g id="node-FJI">
+    <path d="M1520.0,430.0 L1502.6794919243112,420.0 L1502.6794919243112,400.0 L1520.0,390.0 L1537.3205080756888,400.0 L1537.3205080756888,420.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1520" y="410" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">FJI</text>
+  </g>
+  <g id="node-FRA">
+    <path d="M708.3935305146061,238.8065654576265 L691.0730224389174,228.8065654576265 L691.0730224389174,208.8065654576265 L708.3935305146061,198.8065654576265 L725.7140385902949,208.8065654576265 L725.7140385902949,228.80656545762653 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="708.3935305146061" y="218.8065654576265" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">FRA</text>
+  </g>
+  <g id="node-FSM">
+    <path d="M1439.0,505.0 L1421.6794919243112,495.0 L1421.6794919243112,475.0 L1439.0,465.0 L1456.3205080756888,475.0 L1456.3205080756888,495.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1439" y="485" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">FSM</text>
+  </g>
+  <g id="node-GAB">
+    <path d="M825.014458518654,591.9224627944803 L807.6939504429653,581.9224627944803 L807.6939504429653,561.9224627944803 L825.014458518654,551.9224627944803 L842.3349665943427,561.9224627944803 L842.3349665943427,581.9224627944803 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="825.014458518654" y="571.9224627944803" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GAB</text>
+  </g>
+  <g id="node-GBR">
+    <path d="M744.5260738567041,138.51724046463545 L727.2055657810154,128.51724046463545 L727.2055657810154,108.51724046463545 L744.5260738567041,98.51724046463544 L761.8465819323928,108.51724046463542 L761.8465819323928,128.51724046463545 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="744.5260738567041" y="118.51724046463544" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GBR</text>
+  </g>
+  <g id="node-GEO">
+    <path d="M1008.7460163750998,213.3514603108299 L991.425508299411,203.3514603108299 L991.425508299411,183.3514603108299 L1008.7460163750998,173.3514603108299 L1026.0665244507886,183.3514603108299 L1026.0665244507886,203.35146031082994 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1008.7460163750998" y="193.3514603108299" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GEO</text>
+  </g>
+  <g id="node-GHA">
+    <path d="M770.3340697108503,535.2621728301541 L753.0135616351615,525.2621728301541 L753.0135616351615,505.2621728301541 L770.3340697108503,495.2621728301541 L787.654577786539,505.2621728301541 L787.654577786539,525.2621728301541 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="770.3340697108503" y="515.2621728301541" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GHA</text>
+  </g>
+  <g id="node-GIN">
+    <path d="M722.2351156247335,469.34485471575124 L704.9146075490447,459.34485471575124 L704.9146075490447,439.34485471575124 L722.2351156247335,429.34485471575124 L739.5556237004222,439.34485471575124 L739.5556237004222,459.34485471575124 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="722.2351156247335" y="449.34485471575124" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GIN</text>
+  </g>
+  <g id="node-GMB">
+    <path d="M684.4977517227552,455.5952786756134 L667.1772436470665,445.5952786756134 L667.1772436470665,425.5952786756134 L684.4977517227552,415.5952786756134 L701.8182597984439,425.5952786756134 L701.8182597984439,445.5952786756134 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="684.4977517227552" y="435.5952786756134" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GMB</text>
+  </g>
+  <g id="node-GNQ">
+    <path d="M822.0887349223185,551.4737323550327 L804.7682268466298,541.4737323550327 L804.7682268466298,521.4737323550327 L822.0887349223185,511.47373235503267 L839.4092429980072,521.4737323550327 L839.4092429980072,541.4737323550327 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="822.0887349223185" y="531.4737323550327" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GNQ</text>
+  </g>
+  <g id="node-GRC">
+    <path d="M861.5556029285752,352.21020985587114 L844.2350948528865,342.21020985587114 L844.2350948528865,322.21020985587114 L861.5556029285752,312.21020985587114 L878.876111004264,322.21020985587114 L878.876111004264,342.21020985587114 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="861.5556029285752" y="332.21020985587114" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GRC</text>
+  </g>
+  <g id="node-GRD">
+    <path d="M542.4650177202107,497.414171742189 L525.1445096445219,487.414171742189 L525.1445096445219,467.414171742189 L542.4650177202107,457.414171742189 L559.7855257958994,467.414171742189 L559.7855257958994,487.414171742189 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="542.4650177202107" y="477.414171742189" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GRD</text>
+  </g>
+  <g id="node-GTM">
+    <path d="M423.57919092445616,447.9409847676066 L406.25868284876736,437.9409847676066 L406.25868284876736,417.9409847676066 L423.57919092445616,407.9409847676066 L440.89969900014495,417.9409847676066 L440.8996990001449,437.9409847676066 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="423.57919092445616" y="427.9409847676066" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GTM</text>
+  </g>
+  <g id="node-GUY">
+    <path d="M547.6112090448764,550.0825236417778 L530.2907009691877,540.0825236417778 L530.2907009691877,520.0825236417778 L547.6112090448764,510.0825236417778 L564.9317171205652,520.0825236417778 L564.9317171205652,540.0825236417778 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="547.6112090448764" y="530.0825236417778" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">GUY</text>
+  </g>
+  <g id="node-HND">
+    <path d="M451.0239193713203,418.64733936676294 L433.7034112956315,408.64733936676294 L433.7034112956315,388.64733936676294 L451.0239193713203,378.64733936676294 L468.3444274470091,388.64733936676294 L468.344427447009,408.64733936676294 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="451.0239193713203" y="398.64733936676294" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">HND</text>
+  </g>
+  <g id="node-HRV">
+    <path d="M841.6741457327098,204.5899094228499 L824.3536376570211,194.5899094228499 L824.3536376570211,174.58990942284993 L841.6741457327098,164.5899094228499 L858.9946538083985,174.5899094228499 L858.9946538083985,194.58990942284993 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="841.6741457327098" y="184.5899094228499" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">HRV</text>
+  </g>
+  <g id="node-HTI">
+    <path d="M478.8413843559882,386.63185767834 L461.52087628029943,376.63185767834 L461.52087628029943,356.63185767834 L478.8413843559882,346.63185767834 L496.161892431677,356.63185767834 L496.16189243167696,376.63185767834 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="478.8413843559882" y="366.63185767834" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">HTI</text>
+  </g>
+  <g id="node-HUN">
+    <path d="M946.4073361735445,203.67380229155395 L929.0868280978558,193.67380229155395 L929.0868280978558,173.67380229155395 L946.4073361735445,163.67380229155395 L963.7278442492333,173.67380229155395 L963.7278442492333,193.67380229155398 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="946.4073361735445" y="183.67380229155395" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">HUN</text>
+  </g>
+  <g id="node-IDN">
+    <path d="M1281.486050968832,586.2968073399361 L1264.165542893143,576.2968073399361 L1264.165542893143,556.2968073399361 L1281.486050968832,546.2968073399361 L1298.8065590445208,556.2968073399361 L1298.8065590445208,576.2968073399361 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1281.486050968832" y="566.2968073399361" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">IDN</text>
+  </g>
+  <g id="node-IND">
+    <path d="M1107.0,414.0 L1089.6794919243112,404.0 L1089.6794919243112,384.0 L1107.0,374.0 L1124.3205080756888,384.0 L1124.3205080756888,404.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1107" y="394" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">IND</text>
+  </g>
+  <g id="node-IRL">
+    <path d="M721.0918860585431,177.33253530942076 L703.7713779828543,167.33253530942076 L703.7713779828543,147.3325353094208 L721.0918860585431,137.33253530942076 L738.4123941342318,147.33253530942076 L738.4123941342318,167.3325353094208 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="721.0918860585431" y="157.33253530942076" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">IRL</text>
+  </g>
+  <g id="node-IRN">
+    <path d="M1052.7704405524562,295.75916571685593 L1035.4499324767673,285.75916571685593 L1035.4499324767673,265.75916571685593 L1052.7704405524562,255.75916571685593 L1070.090948628145,265.75916571685593 L1070.090948628145,285.75916571685593 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1052.7704405524562" y="275.75916571685593" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">IRN</text>
+  </g>
+  <g id="node-IRQ">
+    <path d="M953.7245338272412,352.54466428430294 L936.4040257515525,342.54466428430294 L936.4040257515525,322.54466428430294 L953.7245338272412,312.54466428430294 L971.0450419029299,322.54466428430294 L971.0450419029299,342.54466428430294 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="953.7245338272412" y="332.54466428430294" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">IRQ</text>
+  </g>
+  <g id="node-ISL">
+    <path d="M720.0,100.0 L702.6794919243113,90.0 L702.6794919243113,70.00000000000001 L720.0,60.0 L737.3205080756887,69.99999999999999 L737.3205080756887,90.00000000000001 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="720" y="80" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ISL</text>
+  </g>
+  <g id="node-ISR">
+    <path d="M921.3438243700331,376.3141403136848 L904.0233162943443,366.3141403136848 L904.0233162943443,346.3141403136848 L921.3438243700331,336.3141403136848 L938.6643324457218,346.3141403136848 L938.6643324457218,366.3141403136848 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="921.3438243700331" y="356.3141403136848" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ISR</text>
+  </g>
+  <g id="node-ITA">
+    <path d="M788.729121799408,326.09278505026026 L771.4086137237192,316.09278505026026 L771.4086137237192,296.09278505026026 L788.729121799408,286.09278505026026 L806.0496298750967,296.09278505026026 L806.0496298750967,316.09278505026026 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="788.729121799408" y="306.09278505026026" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ITA</text>
+  </g>
+  <g id="node-JAM">
+    <path d="M480.0871465887936,446.24813265699845 L462.7666385131048,436.24813265699845 L462.7666385131048,416.24813265699845 L480.0871465887936,406.24813265699845 L497.4076546644824,416.24813265699845 L497.4076546644824,436.24813265699845 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="480.0871465887936" y="426.24813265699845" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">JAM</text>
+  </g>
+  <g id="node-JOR">
+    <path d="M933.6295827869659,414.67249877369574 L916.3090747112772,404.67249877369574 L916.3090747112772,384.67249877369574 L933.6295827869659,374.67249877369574 L950.9500908626546,384.67249877369574 L950.9500908626546,404.67249877369574 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="933.6295827869659" y="394.67249877369574" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">JOR</text>
+  </g>
+  <g id="node-JPN">
+    <path d="M1356.0,302.0 L1338.6794919243112,292.0 L1338.6794919243112,272.0 L1356.0,262.0 L1373.3205080756888,272.0 L1373.3205080756888,292.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1356" y="282" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">JPN</text>
+  </g>
+  <g id="node-KAZ">
+    <path d="M1065.5614834748606,206.5745334907063 L1048.2409753991717,196.5745334907063 L1048.2409753991717,176.5745334907063 L1065.5614834748606,166.5745334907063 L1082.8819915505494,176.5745334907063 L1082.8819915505494,196.57453349070633 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1065.5614834748606" y="186.5745334907063" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KAZ</text>
+  </g>
+  <g id="node-KEN">
+    <path d="M967.8432563946344,561.82173196041 L950.5227483189457,551.82173196041 L950.5227483189457,531.82173196041 L967.8432563946344,521.82173196041 L985.1637644703231,531.82173196041 L985.1637644703231,551.82173196041 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="967.8432563946344" y="541.82173196041" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KEN</text>
+  </g>
+  <g id="node-KGZ">
+    <path d="M1120.33582293106,258.616137321222 L1103.0153148553711,248.61613732122203 L1103.0153148553711,228.61613732122203 L1120.33582293106,218.61613732122203 L1137.6563310067488,228.61613732122203 L1137.6563310067488,248.61613732122206 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1120.33582293106" y="238.61613732122203" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KGZ</text>
+  </g>
+  <g id="node-KHM">
+    <path d="M1220.7900798210374,470.44364635636316 L1203.4695717453485,460.44364635636316 L1203.4695717453485,440.44364635636316 L1220.7900798210374,430.44364635636316 L1238.1105878967262,440.44364635636316 L1238.1105878967262,460.44364635636316 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1220.7900798210374" y="450.44364635636316" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KHM</text>
+  </g>
+  <g id="node-KIR">
+    <path d="M1504.0030177399055,540.198310065653 L1486.6825096642167,530.198310065653 L1486.6825096642167,510.198310065653 L1504.0030177399055,500.198310065653 L1521.3235258155944,510.198310065653 L1521.3235258155944,530.198310065653 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1504.0030177399055" y="520.198310065653" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KIR</text>
+  </g>
+  <g id="node-KNA">
+    <path d="M567.885172391982,373.3289467983131 L550.5646643162933,363.3289467983131 L550.5646643162933,343.3289467983131 L567.885172391982,333.3289467983131 L585.2056804676707,343.3289467983131 L585.2056804676707,363.3289467983131 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="567.885172391982" y="353.3289467983131" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KNA</text>
+  </g>
+  <g id="node-KOR">
+    <path d="M1313.922231403943,304.6834297414029 L1296.6017233282541,294.6834297414029 L1296.6017233282541,274.6834297414029 L1313.922231403943,264.6834297414029 L1331.2427394796318,274.6834297414029 L1331.2427394796318,294.6834297414029 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1313.922231403943" y="284.6834297414029" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KOR</text>
+  </g>
+  <g id="node-KWT">
+    <path d="M992.0588501602938,365.3555686309335 L974.738342084605,355.3555686309335 L974.738342084605,335.3555686309335 L992.0588501602938,325.3555686309335 L1009.3793582359825,335.3555686309335 L1009.3793582359825,355.3555686309335 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="992.0588501602938" y="345.3555686309335" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">KWT</text>
+  </g>
+  <g id="node-LAO">
+    <path d="M1213.3091526437727,421.6701308526142 L1195.9886445680838,411.6701308526142 L1195.9886445680838,391.6701308526142 L1213.3091526437727,381.6701308526142 L1230.6296607194615,391.6701308526142 L1230.6296607194615,411.6701308526142 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1213.3091526437727" y="401.6701308526142" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LAO</text>
+  </g>
+  <g id="node-LBN">
+    <path d="M945.3376759457882,312.94214729342315 L928.0171678700995,302.94214729342315 L928.0171678700995,282.94214729342315 L945.3376759457882,272.94214729342315 L962.6581840214769,282.94214729342315 L962.6581840214769,302.94214729342315 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="945.3376759457882" y="292.94214729342315" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LBN</text>
+  </g>
+  <g id="node-LBR">
+    <path d="M729.7647289825185,542.6791319882913 L712.4442209068297,532.6791319882913 L712.4442209068297,512.6791319882913 L729.7647289825185,502.67913198829126 L747.0852370582072,512.6791319882913 L747.0852370582072,532.6791319882913 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="729.7647289825185" y="522.6791319882913" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LBR</text>
+  </g>
+  <g id="node-LBY">
+    <path d="M842.5496445028001,393.5384691867686 L825.2291364271114,383.5384691867686 L825.2291364271114,363.5384691867686 L842.5496445028001,353.5384691867686 L859.8701525784888,363.5384691867686 L859.8701525784888,383.5384691867686 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="842.5496445028001" y="373.5384691867686" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LBY</text>
+  </g>
+  <g id="node-LCA">
+    <path d="M576.5495111047122,432.79974152966884 L559.2290030290235,422.79974152966884 L559.2290030290235,402.79974152966884 L576.5495111047122,392.79974152966884 L593.870019180401,402.79974152966884 L593.870019180401,422.79974152966884 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="576.5495111047122" y="412.79974152966884" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LCA</text>
+  </g>
+  <g id="node-LIE">
+    <path d="M792.3379056438653,246.20484592296853 L775.0173975681765,236.20484592296853 L775.0173975681765,216.20484592296856 L792.3379056438653,206.20484592296853 L809.658413719554,216.20484592296853 L809.658413719554,236.20484592296856 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="792.3379056438653" y="226.20484592296853" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LIE</text>
+  </g>
+  <g id="node-LKA">
+    <path d="M1124.0,504.0 L1106.6794919243112,494.0 L1106.6794919243112,474.0 L1124.0,464.0 L1141.3205080756888,474.0 L1141.3205080756888,494.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1124" y="484" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LKA</text>
+  </g>
+  <g id="node-LSO">
+    <path d="M917.6800475209212,766.8224891926078 L900.3595394452325,756.8224891926078 L900.3595394452325,736.8224891926078 L917.6800475209212,726.8224891926078 L935.00055559661,736.8224891926078 L935.00055559661,756.8224891926078 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="917.6800475209212" y="746.8224891926078" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LSO</text>
+  </g>
+  <g id="node-LTU">
+    <path d="M880.767069557359,133.67532525153 L863.4465614816703,123.67532525153001 L863.4465614816703,103.67532525153001 L880.767069557359,93.67532525153 L898.0875776330478,103.67532525152998 L898.0875776330478,123.67532525153001 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="880.767069557359" y="113.67532525153" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LTU</text>
+  </g>
+  <g id="node-LUX">
+    <path d="M740.8914082659059,214.51099402054538 L723.5709001902171,204.51099402054538 L723.5709001902171,184.5109940205454 L740.8914082659059,174.51099402054538 L758.2119163415946,184.51099402054538 L758.2119163415946,204.5109940205454 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="740.8914082659059" y="194.51099402054538" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LUX</text>
+  </g>
+  <g id="node-LVA">
+    <path d="M920.7835731283648,135.82083456601657 L903.463065052676,125.8208345660166 L903.463065052676,105.8208345660166 L920.7835731283648,95.82083456601659 L938.1040812040535,105.82083456601657 L938.1040812040535,125.8208345660166 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="920.7835731283648" y="115.82083456601659" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">LVA</text>
+  </g>
+  <g id="node-MAR">
+    <path d="M749.8428248429556,347.3121613969149 L732.5223167672668,337.3121613969149 L732.5223167672668,317.3121613969149 L749.8428248429556,307.3121613969149 L767.1633329186443,317.3121613969149 L767.1633329186443,337.3121613969149 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="749.8428248429556" y="327.3121613969149" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MAR</text>
+  </g>
+  <g id="node-MCO">
+    <path d="M750.8081432865534,307.26134617693276 L733.4876352108647,297.26134617693276 L733.4876352108647,277.26134617693276 L750.8081432865534,267.26134617693276 L768.1286513622422,277.26134617693276 L768.1286513622422,297.26134617693276 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="750.8081432865534" y="287.26134617693276" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MCO</text>
+  </g>
+  <g id="node-MDA">
+    <path d="M973.4358879282544,233.3629099685108 L956.1153798525656,223.3629099685108 L956.1153798525656,203.3629099685108 L973.4358879282544,193.3629099685108 L990.7563960039431,203.3629099685108 L990.7563960039431,223.36290996851082 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="973.4358879282544" y="213.3629099685108" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MDA</text>
+  </g>
+  <g id="node-MDG">
+    <path d="M985.0,693.0 L967.6794919243113,683.0 L967.6794919243113,663.0 L985.0,653.0 L1002.3205080756887,663.0 L1002.3205080756887,683.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="985" y="673" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MDG</text>
+  </g>
+  <g id="node-MDV">
+    <path d="M1091.0,531.0 L1073.6794919243112,521.0 L1073.6794919243112,501.0 L1091.0,491.0 L1108.3205080756888,501.0 L1108.3205080756888,521.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1091" y="511" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MDV</text>
+  </g>
+  <g id="node-MEX">
+    <path d="M375.8280429115161,392.7630371830255 L358.5075348358273,382.7630371830255 L358.5075348358273,362.7630371830255 L375.8280429115161,352.7630371830255 L393.1485509872049,362.7630371830255 L393.1485509872049,382.7630371830255 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="375.8280429115161" y="372.7630371830255" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MEX</text>
+  </g>
+  <g id="node-MHL">
+    <path d="M1478.0,490.0 L1460.6794919243112,480.0 L1460.6794919243112,460.0 L1478.0,450.0 L1495.3205080756888,460.0 L1495.3205080756888,480.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1478" y="470" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MHL</text>
+  </g>
+  <g id="node-MKD">
+    <path d="M902.7358817828729,258.3403604344785 L885.4153737071841,248.3403604344785 L885.4153737071841,228.3403604344785 L902.7358817828729,218.3403604344785 L920.0563898585616,228.3403604344785 L920.0563898585616,248.34036043447853 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="902.7358817828729" y="238.3403604344785" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MKD</text>
+  </g>
+  <g id="node-MLI">
+    <path d="M768.0103237299418,422.9937149098974 L750.689815654253,412.9937149098974 L750.689815654253,392.9937149098974 L768.0103237299418,382.9937149098974 L785.3308318056305,392.9937149098974 L785.3308318056305,412.9937149098974 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="768.0103237299418" y="402.9937149098974" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MLI</text>
+  </g>
+  <g id="node-MLT">
+    <path d="M819.0869417364011,361.03572380247016 L801.7664336607123,351.03572380247016 L801.7664336607123,331.03572380247016 L819.0869417364011,321.03572380247016 L836.4074498120898,331.03572380247016 L836.4074498120898,351.03572380247016 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="819.0869417364011" y="341.03572380247016" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MLT</text>
+  </g>
+  <g id="node-MMR">
+    <path d="M1191.6983947698707,387.71999925704495 L1174.3778866941818,377.71999925704495 L1174.3778866941818,357.71999925704495 L1191.6983947698707,347.71999925704495 L1209.0189028455595,357.71999925704495 L1209.0189028455595,377.71999925704495 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1191.6983947698707" y="367.71999925704495" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MMR</text>
+  </g>
+  <g id="node-MNE">
+    <path d="M870.8654422505699,313.0185360553855 L853.5449341748812,303.0185360553855 L853.5449341748812,283.0185360553855 L870.8654422505699,273.0185360553855 L888.1859503262586,283.0185360553855 L888.1859503262586,303.0185360553855 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="870.8654422505699" y="293.0185360553855" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MNE</text>
+  </g>
+  <g id="node-MNG">
+    <path d="M1221.0,232.0 L1203.6794919243112,222.0 L1203.6794919243112,202.0 L1221.0,192.0 L1238.3205080756888,202.0 L1238.3205080756888,222.00000000000003 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1221" y="212" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MNG</text>
+  </g>
+  <g id="node-MOZ">
+    <path d="M949.8560210659983,671.9315820091595 L932.5355129903096,661.9315820091595 L932.5355129903096,641.9315820091595 L949.8560210659983,631.9315820091595 L967.1765291416871,641.9315820091595 L967.1765291416871,661.9315820091595 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="949.8560210659983" y="651.9315820091595" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MOZ</text>
+  </g>
+  <g id="node-MRT">
+    <path d="M743.3359079763637,390.0088882146895 L726.015399900675,380.0088882146895 L726.015399900675,360.0088882146895 L743.3359079763637,350.0088882146895 L760.6564160520525,360.0088882146895 L760.6564160520525,380.0088882146895 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="743.3359079763637" y="370.0088882146895" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MRT</text>
+  </g>
+  <g id="node-MUS">
+    <path d="M1028.0,695.0 L1010.6794919243113,685.0 L1010.6794919243113,665.0 L1028.0,655.0 L1045.3205080756888,665.0 L1045.3205080756888,685.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1028" y="675" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MUS</text>
+  </g>
+  <g id="node-MWI">
+    <path d="M936.8304615919677,633.4474587772864 L919.509953516279,623.4474587772864 L919.509953516279,603.4474587772864 L936.8304615919677,593.4474587772864 L954.1509696676565,603.4474587772864 L954.1509696676565,623.4474587772864 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="936.8304615919677" y="613.4474587772864" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MWI</text>
+  </g>
+  <g id="node-MYS">
+    <path d="M1251.9371314489529,547.6439111382455 L1234.616623373264,537.6439111382455 L1234.616623373264,517.6439111382455 L1251.9371314489529,507.64391113824547 L1269.2576395246417,517.6439111382455 L1269.2576395246417,537.6439111382455 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1251.9371314489529" y="527.6439111382455" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">MYS</text>
+  </g>
+  <g id="node-NAM">
+    <path d="M843.7003619751779,703.5181312585162 L826.3798538994891,693.5181312585162 L826.3798538994891,673.5181312585162 L843.7003619751779,663.5181312585162 L861.0208700508666,673.5181312585162 L861.0208700508666,693.5181312585162 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="843.7003619751779" y="683.5181312585162" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NAM</text>
+  </g>
+  <g id="node-NER">
+    <path d="M832.1726262693892,435.6055669841608 L814.8521181937004,425.6055669841608 L814.8521181937004,405.6055669841608 L832.1726262693892,395.6055669841608 L849.4931343450779,405.6055669841608 L849.4931343450779,425.6055669841608 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="832.1726262693892" y="415.6055669841608" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NER</text>
+  </g>
+  <g id="node-NGA">
+    <path d="M837.6365938692862,482.08892005650824 L820.3160857935975,472.08892005650824 L820.3160857935975,452.08892005650824 L837.6365938692862,442.08892005650824 L854.957101944975,452.08892005650824 L854.957101944975,472.08892005650824 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="837.6365938692862" y="462.08892005650824" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NGA</text>
+  </g>
+  <g id="node-NIC">
+    <path d="M465.4782401710376,483.93567946417784 L448.1577320953488,473.93567946417784 L448.1577320953488,453.93567946417784 L465.4782401710376,443.93567946417784 L482.7987482467264,453.93567946417784 L482.7987482467264,473.93567946417784 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="465.4782401710376" y="463.93567946417784" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NIC</text>
+  </g>
+  <g id="node-NLD">
+    <path d="M787.6083760504924,144.70981965365883 L770.2878679748037,134.70981965365883 L770.2878679748037,114.70981965365884 L787.6083760504924,104.70981965365883 L804.9288841261812,114.70981965365881 L804.9288841261812,134.70981965365885 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="787.6083760504924" y="124.70981965365883" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NLD</text>
+  </g>
+  <g id="node-NOR">
+    <path d="M778.3189539879996,100.0 L760.9984459123109,90.0 L760.9984459123109,70.00000000000001 L778.3189539879996,60.0 L795.6394620636884,69.99999999999999 L795.6394620636884,90.00000000000001 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="778.3189539879996" y="80" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NOR</text>
+  </g>
+  <g id="node-NPL">
+    <path d="M1131.139693324396,354.56303901744144 L1113.819185248707,344.56303901744144 L1113.819185248707,324.56303901744144 L1131.139693324396,314.56303901744144 L1148.4602014000848,324.56303901744144 L1148.4602014000848,344.56303901744144 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1131.139693324396" y="334.56303901744144" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NPL</text>
+  </g>
+  <g id="node-NRU">
+    <path d="M1468.9969822600945,559.801689934347 L1451.6764741844056,549.801689934347 L1451.6764741844056,529.801689934347 L1468.9969822600945,519.801689934347 L1486.3174903357833,529.801689934347 L1486.3174903357833,549.801689934347 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1468.9969822600945" y="539.801689934347" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NRU</text>
+  </g>
+  <g id="node-NZL">
+    <path d="M1503.0,840.0 L1485.6794919243112,830.0 L1485.6794919243112,810.0 L1503.0,800.0 L1520.3205080756888,810.0 L1520.3205080756888,830.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1503" y="820" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">NZL</text>
+  </g>
+  <g id="node-OMN">
+    <path d="M1049.4920050022724,453.9714069691157 L1032.1714969265836,443.9714069691157 L1032.1714969265836,423.9714069691157 L1049.4920050022724,413.9714069691157 L1066.8125130779613,423.9714069691157 L1066.8125130779613,443.9714069691157 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1049.4920050022724" y="433.9714069691157" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">OMN</text>
+  </g>
+  <g id="node-PAK">
+    <path d="M1092.3347774590118,366.21381974015475 L1075.014269383323,356.21381974015475 L1075.014269383323,336.21381974015475 L1092.3347774590118,326.21381974015475 L1109.6552855347006,336.21381974015475 L1109.6552855347006,356.21381974015475 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1092.3347774590118" y="346.21381974015475" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PAK</text>
+  </g>
+  <g id="node-PAN">
+    <path d="M460.5541648360441,523.8663850481016 L443.2336567603553,513.8663850481017 L443.2336567603553,493.8663850481017 L460.5541648360441,483.8663850481017 L477.8746729117329,493.8663850481017 L477.8746729117329,513.8663850481017 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="460.5541648360441" y="503.8663850481017" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PAN</text>
+  </g>
+  <g id="node-PER">
+    <path d="M483.0,623.0 L465.6794919243112,613.0 L465.6794919243112,593.0 L483.0,583.0 L500.3205080756888,593.0 L500.32050807568874,613.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="483" y="603" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PER</text>
+  </g>
+  <g id="node-PHL">
+    <path d="M1291.0,463.0 L1273.6794919243112,453.0 L1273.6794919243112,433.0 L1291.0,423.0 L1308.3205080756888,433.0 L1308.3205080756888,453.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1291" y="443" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PHL</text>
+  </g>
+  <g id="node-PLW">
+    <path d="M1342.0,501.0 L1324.6794919243112,491.0 L1324.6794919243112,471.0 L1342.0,461.0 L1359.3205080756888,471.0 L1359.3205080756888,491.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1342" y="481" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PLW</text>
+  </g>
+  <g id="node-PNG">
+    <path d="M1393.0,595.0 L1375.6794919243112,585.0 L1375.6794919243112,565.0 L1393.0,555.0 L1410.3205080756888,565.0 L1410.3205080756888,585.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1393" y="575" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PNG</text>
+  </g>
+  <g id="node-POL">
+    <path d="M861.2379860032729,169.32582148809377 L843.9174779275842,159.32582148809377 L843.9174779275842,139.32582148809377 L861.2379860032729,129.32582148809377 L878.5584940789616,139.32582148809377 L878.5584940789616,159.3258214880938 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="861.2379860032729" y="149.32582148809377" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">POL</text>
+  </g>
+  <g id="node-PRK">
+    <path d="M1310.077768596057,264.31657025859704 L1292.7572605203682,254.316570258597 L1292.7572605203682,234.31657025859704 L1310.077768596057,224.316570258597 L1327.3982766717459,234.316570258597 L1327.3982766717459,254.31657025859704 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1310.077768596057" y="244.316570258597" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PRK</text>
+  </g>
+  <g id="node-PRT">
+    <path d="M715.0758579690037,278.48753967636696 L697.7553498933149,268.48753967636696 L697.7553498933149,248.48753967636696 L715.0758579690037,238.48753967636696 L732.3963660446924,248.48753967636696 L732.3963660446924,268.48753967636696 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="715.0758579690037" y="258.48753967636696" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PRT</text>
+  </g>
+  <g id="node-PRY">
+    <path d="M557.0,714.0 L539.6794919243113,704.0 L539.6794919243113,684.0 L557.0,674.0 L574.3205080756887,684.0 L574.3205080756887,704.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="557" y="694" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">PRY</text>
+  </g>
+  <g id="node-QAT">
+    <path d="M1030.7372936808927,376.91404503248174 L1013.4167856052039,366.91404503248174 L1013.4167856052039,346.91404503248174 L1030.7372936808927,336.91404503248174 L1048.0578017565815,346.91404503248174 L1048.0578017565815,366.91404503248174 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1030.7372936808927" y="356.91404503248174" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">QAT</text>
+  </g>
+  <g id="node-ROU">
+    <path d="M908.6442737238773,217.61095395280185 L891.3237656481886,207.61095395280185 L891.3237656481886,187.61095395280188 L908.6442737238773,177.61095395280185 L925.964781799566,187.61095395280185 L925.964781799566,207.61095395280188 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="908.6442737238773" y="197.61095395280185" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ROU</text>
+  </g>
+  <g id="node-RUS">
+    <path d="M1201.0,134.0 L1183.6794919243112,124.0 L1183.6794919243112,104.00000000000001 L1201.0,94.0 L1218.3205080756888,103.99999999999999 L1218.3205080756888,124.00000000000001 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1201" y="114" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">RUS</text>
+  </g>
+  <g id="node-RWA">
+    <path d="M930.5242771345154,580.4576815491147 L913.2037690588267,570.4576815491147 L913.2037690588267,550.4576815491147 L930.5242771345154,540.4576815491147 L947.8447852102041,550.4576815491147 L947.8447852102041,570.4576815491147 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="930.5242771345154" y="560.4576815491147" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">RWA</text>
+  </g>
+  <g id="node-SAU">
+    <path d="M972.8072102195829,400.9002377912369 L955.4867021438941,390.9002377912369 L955.4867021438941,370.9002377912369 L972.8072102195829,360.9002377912369 L990.1277182952716,370.9002377912369 L990.1277182952716,390.9002377912369 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="972.8072102195829" y="380.9002377912369" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SAU</text>
+  </g>
+  <g id="node-SDN">
+    <path d="M918.6307110245752,459.19911042354255 L901.3102029488865,449.19911042354255 L901.3102029488865,429.19911042354255 L918.6307110245752,419.19911042354255 L935.951219100264,429.19911042354255 L935.951219100264,449.19911042354255 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="918.6307110245752" y="439.19911042354255" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SDN</text>
+  </g>
+  <g id="node-SEN">
+    <path d="M728.1759813798176,428.98027876845043 L710.8554733041289,418.98027876845043 L710.8554733041289,398.98027876845043 L728.1759813798176,388.98027876845043 L745.4964894555063,398.98027876845043 L745.4964894555063,418.98027876845043 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="728.1759813798176" y="408.98027876845043" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SEN</text>
+  </g>
+  <g id="node-SGP">
+    <path d="M1211.645923155096,544.7847062299505 L1194.325415079407,534.7847062299505 L1194.325415079407,514.7847062299505 L1211.645923155096,504.78470622995053 L1228.9664312307848,514.7847062299505 L1228.9664312307848,534.7847062299505 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1211.645923155096" y="524.7847062299505" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SGP</text>
+  </g>
+  <g id="node-SLB">
+    <path d="M1442.0,609.0 L1424.6794919243112,599.0 L1424.6794919243112,579.0 L1442.0,569.0 L1459.3205080756888,579.0 L1459.3205080756888,599.0 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1442" y="589" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SLB</text>
+  </g>
+  <g id="node-SLE">
+    <path d="M709.1192050979813,507.4857969567232 L691.7986970222926,497.4857969567232 L691.7986970222926,477.4857969567232 L709.1192050979813,467.4857969567232 L726.43971317367,477.4857969567232 L726.43971317367,497.4857969567232 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="709.1192050979813" y="487.4857969567232" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SLE</text>
+  </g>
+  <g id="node-SLV">
+    <path d="M391.7850366316734,475.90040656482995 L374.4645285559846,465.90040656482995 L374.4645285559846,445.90040656482995 L391.7850366316734,435.90040656482995 L409.1055447073622,445.90040656482995 L409.1055447073621,465.90040656482995 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="391.7850366316734" y="455.90040656482995" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SLV</text>
+  </g>
+  <g id="node-SMR">
+    <path d="M825.3323470003653,283.2072718269423 L808.0118389246766,273.2072718269423 L808.0118389246766,253.2072718269423 L825.3323470003653,243.2072718269423 L842.652855076054,253.2072718269423 L842.652855076054,273.2072718269423 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="825.3323470003653" y="263.2072718269423" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SMR</text>
+  </g>
+  <g id="node-SOM">
+    <path d="M1009.0873132616563,490.47823823628823 L991.7668051859675,480.47823823628823 L991.7668051859675,460.47823823628823 L1009.0873132616563,450.47823823628823 L1026.407821337345,460.47823823628823 L1026.407821337345,480.47823823628823 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1009.0873132616563" y="470.47823823628823" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SOM</text>
+  </g>
+  <g id="node-SRB">
+    <path d="M942.9284826887674,259.3647636525451 L925.6079746130787,249.36476365254512 L925.6079746130787,229.36476365254515 L942.9284826887674,219.36476365254512 L960.2489907644562,229.36476365254512 L960.2489907644562,249.36476365254515 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="942.9284826887674" y="239.36476365254512" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SRB</text>
+  </g>
+  <g id="node-SSD">
+    <path d="M921.0913151319987,499.33471062348883 L903.77080705631,489.33471062348883 L903.77080705631,469.33471062348883 L921.0913151319987,459.33471062348883 L938.4118232076875,469.33471062348883 L938.4118232076875,489.33471062348883 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="921.0913151319987" y="479.33471062348883" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SSD</text>
+  </g>
+  <g id="node-STP">
+    <path d="M786.9577958817534,572.0718868533809 L769.6372878060647,562.0718868533809 L769.6372878060647,542.0718868533809 L786.9577958817534,532.0718868533809 L804.2783039574422,542.0718868533809 L804.2783039574422,562.0718868533809 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="786.9577958817534" y="552.0718868533809" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">STP</text>
+  </g>
+  <g id="node-SUR">
+    <path d="M608.4141865783164,543.2915866095016 L591.0936785026277,533.2915866095016 L591.0936785026277,513.2915866095016 L608.4141865783164,503.29158660950156 L625.7346946540051,513.2915866095016 L625.7346946540051,533.2915866095016 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="608.4141865783164" y="523.2915866095016" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SUR</text>
+  </g>
+  <g id="node-SVK">
+    <path d="M900.5392506542004,178.19814744571312 L883.2187425785116,168.19814744571312 L883.2187425785116,148.19814744571312 L900.5392506542004,138.19814744571312 L917.8597587298891,148.19814744571312 L917.8597587298891,168.19814744571315 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="900.5392506542004" y="158.19814744571312" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SVK</text>
+  </g>
+  <g id="node-SVN">
+    <path d="M813.1451126083076,176.18297820975457 L795.8246045326189,166.18297820975457 L795.8246045326189,146.1829782097546 L813.1451126083076,136.18297820975457 L830.4656206839963,146.18297820975457 L830.4656206839963,166.1829782097546 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="813.1451126083076" y="156.18297820975457" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SVN</text>
+  </g>
+  <g id="node-SWE">
+    <path d="M858.5947584858413,100.0 L841.2742504101526,90.0 L841.2742504101526,70.00000000000001 L858.5947584858413,60.0 L875.9152665615301,69.99999999999999 L875.9152665615301,90.00000000000001 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="858.5947584858413" y="80" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SWE</text>
+  </g>
+  <g id="node-SWZ">
+    <path d="M933.1474059683668,729.494438592794 L915.8268978926781,719.494438592794 L915.8268978926781,699.494438592794 L933.1474059683668,689.494438592794 L950.4679140440555,699.494438592794 L950.4679140440555,719.494438592794 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="933.1474059683668" y="709.494438592794" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SWZ</text>
+  </g>
+  <g id="node-SYC">
+    <path d="M1020.0,585.0 L1002.6794919243113,575.0 L1002.6794919243113,555.0 L1020.0,545.0 L1037.3205080756888,555.0 L1037.3205080756888,575.0 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1020" y="565" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SYC</text>
+  </g>
+  <g id="node-SYR">
+    <path d="M983.6160051083572,325.9625992723932 L966.2954970326684,315.9625992723932 L966.2954970326684,295.9625992723932 L983.6160051083572,285.9625992723932 L1000.9365131840459,295.9625992723932 L1000.9365131840459,315.9625992723932 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="983.6160051083572" y="305.9625992723932" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">SYR</text>
+  </g>
+  <g id="node-TCD">
+    <path d="M867.446329550456,455.14695788508436 L850.1258214747672,445.14695788508436 L850.1258214747672,425.14695788508436 L867.446329550456,415.14695788508436 L884.7668376261447,425.14695788508436 L884.7668376261447,445.14695788508436 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="867.446329550456" y="435.14695788508436" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TCD</text>
+  </g>
+  <g id="node-TGO">
+    <path d="M804.3882365893295,505.2210765774332 L787.0677285136408,495.2210765774332 L787.0677285136408,475.2210765774332 L804.3882365893295,465.2210765774332 L821.7087446650182,475.2210765774332 L821.7087446650182,495.2210765774332 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="804.3882365893295" y="485.2210765774332" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TGO</text>
+  </g>
+  <g id="node-THA">
+    <path d="M1185.2159902840567,450.4593005125056 L1167.8954822083679,440.4593005125056 L1167.8954822083679,420.4593005125056 L1185.2159902840567,410.4593005125056 L1202.5364983597456,420.4593005125056 L1202.5364983597456,440.4593005125056 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1185.2159902840567" y="430.4593005125056" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">THA</text>
+  </g>
+  <g id="node-TJK">
+    <path d="M1092.5190235834339,287.6879283883387 L1075.198515507745,277.6879283883387 L1075.198515507745,257.6879283883387 L1092.5190235834339,247.68792838833872 L1109.8395316591227,257.6879283883387 L1109.8395316591227,277.6879283883387 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1092.5190235834339" y="267.6879283883387" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TJK</text>
+  </g>
+  <g id="node-TKM">
+    <path d="M1044.9307993711343,256.0496080249645 L1027.6102912954454,246.04960802496456 L1027.6102912954454,226.04960802496458 L1044.9307993711343,216.04960802496456 L1062.2513074468231,226.04960802496456 L1062.2513074468231,246.04960802496458 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1044.9307993711343" y="236.04960802496456" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TKM</text>
+  </g>
+  <g id="node-TLS">
+    <path d="M1308.513949031168,616.7031926600639 L1291.1934409554792,606.7031926600639 L1291.1934409554792,586.7031926600639 L1308.513949031168,576.7031926600639 L1325.834457106857,586.7031926600639 L1325.834457106857,606.7031926600639 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1308.513949031168" y="596.7031926600639" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TLS</text>
+  </g>
+  <g id="node-TON">
+    <path d="M80.0,693.0 L62.67949192431123,683.0 L62.67949192431122,663.0 L80.0,653.0 L97.32050807568876,663.0 L97.32050807568876,683.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="80" y="673" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TON</text>
+  </g>
+  <g id="node-TTO">
+    <path d="M575.5870349082713,520.0599893921876 L558.2665268325826,510.0599893921876 L558.2665268325826,490.0599893921876 L575.5870349082713,480.0599893921876 L592.9075429839601,490.0599893921876 L592.9075429839601,510.0599893921876 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="575.5870349082713" y="500.0599893921876" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TTO</text>
+  </g>
+  <g id="node-TUN">
+    <path d="M780.345445228474,373.76749476997344 L763.0249371527852,363.76749476997344 L763.0249371527852,343.76749476997344 L780.345445228474,333.76749476997344 L797.6659533041627,343.76749476997344 L797.6659533041627,363.76749476997344 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="780.345445228474" y="353.76749476997344" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TUN</text>
+  </g>
+  <g id="node-TUR">
+    <path d="M974.3007825593501,285.19129442868154 L956.9802744836613,275.19129442868154 L956.9802744836613,255.19129442868154 L974.3007825593501,245.19129442868154 L991.6212906350388,255.19129442868154 L991.6212906350388,275.19129442868154 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="974.3007825593501" y="265.19129442868154" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TUR</text>
+  </g>
+  <g id="node-TUV">
+    <path d="M1519.0,609.0 L1501.6794919243112,599.0 L1501.6794919243112,579.0 L1519.0,569.0 L1536.3205080756888,579.0 L1536.3205080756888,599.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1519" y="589" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TUV</text>
+  </g>
+  <g id="node-TZA">
+    <path d="M964.6335420030124,602.3801850020689 L947.3130339273237,592.3801850020689 L947.3130339273237,572.3801850020689 L964.6335420030124,562.3801850020689 L981.9540500787011,572.3801850020689 L981.9540500787011,592.3801850020689 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="964.6335420030124" y="582.3801850020689" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">TZA</text>
+  </g>
+  <g id="node-UGA">
+    <path d="M924.9484891486456,540.7726368510088 L907.6279810729569,530.7726368510088 L907.6279810729569,510.77263685100877 L924.9484891486456,500.77263685100877 L942.2689972243344,510.77263685100877 L942.2689972243344,530.7726368510088 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="924.9484891486456" y="520.7726368510088" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">UGA</text>
+  </g>
+  <g id="node-UKR">
+    <path d="M987.7357464491417,179.071252950879 L970.415238373453,169.071252950879 L970.415238373453,149.071252950879 L987.7357464491417,139.071252950879 L1005.0562545248305,149.071252950879 L1005.0562545248305,169.07125295087903 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="987.7357464491417" y="159.071252950879" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">UKR</text>
+  </g>
+  <g id="node-URY">
+    <path d="M568.2190273822683,783.3171760098219 L550.8985193065796,773.3171760098219 L550.8985193065796,753.3171760098219 L568.2190273822683,743.3171760098219 L585.5395354579571,753.3171760098219 L585.5395354579571,773.3171760098219 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="568.2190273822683" y="763.3171760098219" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">URY</text>
+  </g>
+  <g id="node-USA">
+    <path d="M398.0,288.0 L380.6794919243112,278.0 L380.6794919243112,258.0 L398.0,248.0 L415.3205080756888,258.0 L415.32050807568874,278.0 Z" fill="red" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="398" y="268" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">USA</text>
+  </g>
+  <g id="node-UZB">
+    <path d="M1082.7372634253863,242.9450881865681 L1065.4167553496975,232.9450881865681 L1065.4167553496975,212.9450881865681 L1082.7372634253863,202.9450881865681 L1100.0577715010752,212.9450881865681 L1100.0577715010752,232.94508818656814 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1082.7372634253863" y="222.9450881865681" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">UZB</text>
+  </g>
+  <g id="node-VAT">
+    <path d="M831.7772254724637,322.9243882771395 L814.4567173967749,312.9243882771395 L814.4567173967749,292.9243882771395 L831.7772254724637,282.9243882771395 L849.0977335481524,292.9243882771395 L849.0977335481524,312.9243882771395 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="831.7772254724637" y="302.9243882771395" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">VAT</text>
+  </g>
+  <g id="node-VCT">
+    <path d="M508.4503773969136,475.74102067263823 L491.1298693212248,465.74102067263823 L491.1298693212248,445.74102067263823 L508.4503773969136,435.74102067263823 L525.7708854726023,445.74102067263823 L525.7708854726023,465.74102067263823 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="508.4503773969136" y="455.74102067263823" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">VCT</text>
+  </g>
+  <g id="node-VEN">
+    <path d="M501.1329142047832,515.3281093453827 L483.8124061290944,505.32810934538276 L483.8124061290944,485.32810934538276 L501.1329142047832,475.32810934538276 L518.453422280472,485.32810934538276 L518.453422280472,505.32810934538276 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="501.1329142047832" y="495.32810934538276" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">VEN</text>
+  </g>
+  <g id="node-VNM">
+    <path d="M1249.062091298653,440.8243224881477 L1231.7415832229642,430.8243224881477 L1231.7415832229642,410.8243224881477 L1249.062091298653,400.8243224881477 L1266.382599374342,410.8243224881477 L1266.382599374342,430.8243224881477 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1249.062091298653" y="420.8243224881477" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">VNM</text>
+  </g>
+  <g id="node-VUT">
+    <path d="M1474.0,665.0 L1456.6794919243112,655.0 L1456.6794919243112,635.0 L1474.0,625.0 L1491.3205080756888,635.0 L1491.3205080756888,655.0 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1474" y="645" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">VUT</text>
+  </g>
+  <g id="node-WSM">
+    <path d="M90.0,648.0 L72.67949192431124,638.0 L72.67949192431122,618.0 L90.0,608.0 L107.32050807568876,618.0 L107.32050807568876,638.0 Z" fill="gray" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="90" y="628" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">WSM</text>
+  </g>
+  <g id="node-YEM">
+    <path d="M1003.033699651275,444.0093949739527 L985.7131915755863,434.0093949739527 L985.7131915755863,414.0093949739527 L1003.033699651275,404.0093949739527 L1020.3542077269638,414.0093949739527 L1020.3542077269638,434.0093949739527 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1003.033699651275" y="424.0093949739527" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">YEM</text>
+  </g>
+  <g id="node-ZAF">
+    <path d="M878.511265992449,755.7322154272653 L861.1907579167603,745.7322154272653 L861.1907579167603,725.7322154272653 L878.511265992449,715.7322154272653 L895.8317740681377,725.7322154272653 L895.8317740681377,745.7322154272653 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="878.511265992449" y="735.7322154272653" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ZAF</text>
+  </g>
+  <g id="node-ZMB">
+    <path d="M902.7136982596647,654.9446942595893 L885.393190183976,644.9446942595893 L885.393190183976,624.9446942595893 L902.7136982596647,614.9446942595893 L920.0342063353535,624.9446942595893 L920.0342063353535,644.9446942595893 Z" fill="orange" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="902.7136982596647" y="634.9446942595893" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ZMB</text>
+  </g>
+  <g id="node-ZWE">
+    <path d="M915.8230974188047,693.318832526894 L898.5025893431159,683.318832526894 L898.5025893431159,663.318832526894 L915.8230974188047,653.318832526894 L933.1436054944934,663.318832526894 L933.1436054944934,683.318832526894 Z" fill="green" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="915.8230974188047" y="673.318832526894" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">ZWE</text>
+  </g>
+</svg>

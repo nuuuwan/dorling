@@ -12,3 +12,9 @@ class TestCase(unittest.TestCase):
         dorl = Dorl(config)
         svg_path = os.path.join('test_examples', 'districts.svg')
         dorl.write(svg_path)
+
+    def test_countries(self):
+        config = config_utils.get_config_for_countries()
+        dorl = Dorl(config)
+        svg_path = os.path.join('test_examples', 'countries.svg')
+        dorl.write(svg_path)

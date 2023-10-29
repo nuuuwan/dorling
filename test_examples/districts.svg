@@ -1,103 +1,103 @@
 <?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
   <g id="node-Colombo">
-    <path d="M80.02650984898716,582.826687114714 L57.52650984898716,621.7978302850138 L12.526509848987164,621.7978302850138 L-9.973490151012847,582.826687114714 L12.526509848987132,543.8555439444143 L57.52650984898716,543.8555439444142 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="35.02650984898715" y="582.826687114714" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Colombo</text>
+    <path d="M173.0,688.0 L155.67949192431124,678.0 L155.6794919243112,658.0 L173.0,648.0 L190.32050807568876,658.0 L190.32050807568876,678.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="173" y="668" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Colombo</text>
   </g>
   <g id="node-Gampaha">
-    <path d="M110.10327401416396,497.97934700890085 L87.60327401416396,536.9504901792006 L42.60327401416397,536.9504901792006 L20.103274014163958,497.97934700890085 L42.60327401416394,459.0082038386011 L87.60327401416396,459.0082038386011 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="65.10327401416396" y="497.97934700890085" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Gampaha</text>
+    <path d="M171.0,635.0 L153.67949192431124,625.0 L153.6794919243112,605.0 L171.0,595.0 L188.32050807568876,605.0 L188.32050807568876,625.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="171" y="615" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Gampaha</text>
   </g>
   <g id="node-Kalutara">
-    <path d="M152.65279525114244,636.0405211556465 L130.15279525114244,675.0116643259462 L85.15279525114245,675.0116643259462 L62.652795251142436,636.0405211556465 L85.15279525114241,597.0693779853468 L130.15279525114244,597.0693779853468 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="107.65279525114244" y="636.0405211556465" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kalutara</text>
+    <path d="M267.0,749.0 L249.67949192431124,739.0 L249.6794919243112,719.0 L267.0,709.0 L284.3205080756888,719.0 L284.32050807568874,739.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="267" y="729" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kalutara</text>
   </g>
   <g id="node-Kandy">
-    <path d="M259.84886026479785,502.15574241937026 L237.34886026479785,541.12688558967 L192.34886026479785,541.12688558967 L169.84886026479785,502.15574241937026 L192.34886026479782,463.1845992490705 L237.34886026479785,463.1845992490705 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="214.84886026479785" y="502.15574241937026" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kandy</text>
+    <path d="M780.0,604.0 L762.6794919243113,594.0 L762.6794919243113,574.0 L780.0,564.0 L797.3205080756887,574.0 L797.3205080756887,594.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="780" y="584" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kandy</text>
   </g>
   <g id="node-Matale">
-    <path d="M269.36439416390783,412.6378069550954 L246.86439416390783,451.60895012539515 L201.86439416390783,451.60895012539515 L179.36439416390783,412.6378069550954 L201.8643941639078,373.6666637847957 L246.86439416390783,373.6666637847957 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="224.36439416390783" y="412.6378069550954" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Matale</text>
+    <path d="M799.0,522.0 L781.6794919243113,512.0 L781.6794919243113,492.0 L799.0,482.0 L816.3205080756887,492.0 L816.3205080756887,512.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="799" y="502" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Matale</text>
   </g>
   <g id="node-Nuwara Eliya">
-    <path d="M290.30390353246315,586.951975743401 L267.80390353246315,625.9231189137008 L222.80390353246315,625.9231189137008 L200.30390353246315,586.951975743401 L222.80390353246312,547.9808325731013 L267.80390353246315,547.9808325731012 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="245.30390353246315" y="586.951975743401" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Nuwara Eliya</text>
+    <path d="M781.0,666.0 L763.6794919243113,656.0 L763.6794919243113,636.0 L781.0,626.0 L798.3205080756887,636.0 L798.3205080756887,656.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="781" y="646" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Nuwara Eliya</text>
   </g>
   <g id="node-Galle">
-    <path d="M163.8879455287929,725.4128961199689 L141.3879455287929,764.3840392902687 L96.38794552879291,764.3840392902687 L73.8879455287929,725.4128961199689 L96.38794552879287,686.4417529496692 L141.3879455287929,686.4417529496691 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="118.8879455287929" y="725.4128961199689" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Galle</text>
+    <path d="M377.0,823.0 L359.6794919243112,813.0 L359.6794919243112,793.0 L377.0,783.0 L394.3205080756888,793.0 L394.32050807568874,813.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="377" y="803" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Galle</text>
   </g>
   <g id="node-Matara">
-    <path d="M258.00537893714727,749.2085289047371 L235.50537893714727,788.1796720750369 L190.50537893714727,788.1796720750369 L168.00537893714727,749.2085289047371 L190.50537893714724,710.2373857344375 L235.50537893714727,710.2373857344373 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="213.00537893714727" y="749.2085289047371" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Matara</text>
+    <path d="M631.0,840.0 L613.6794919243113,830.0 L613.6794919243113,810.0 L631.0,800.0 L648.3205080756887,810.0 L648.3205080756887,830.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="631" y="820" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Matara</text>
   </g>
   <g id="node-Hambantota">
-    <path d="M333.4028701773328,689.0043243324039 L310.9028701773328,727.9754675027036 L265.9028701773328,727.9754675027036 L243.40287017733277,689.0043243324039 L265.9028701773328,650.0331811621043 L310.9028701773328,650.0331811621043 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="288.4028701773328" y="689.0043243324039" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Hambantota</text>
+    <path d="M1122.0,815.0 L1104.6794919243112,805.0 L1104.6794919243112,785.0 L1122.0,775.0 L1139.3205080756888,785.0 L1139.3205080756888,805.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1122" y="795" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Hambantota</text>
   </g>
   <g id="node-Jaffna">
-    <path d="M147.04045595549405,60.8546437158303 L124.54045595549404,99.82578688613003 L79.54045595549405,99.82578688613003 L57.04045595549404,60.854643715830306 L79.54045595549402,21.883500545530566 L124.54045595549404,21.88350054553056 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="102.04045595549404" y="60.8546437158303" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Jaffna</text>
+    <path d="M242.0,100.0 L224.67949192431124,90.0 L224.6794919243112,70.00000000000001 L242.0,60.0 L259.3205080756888,69.99999999999999 L259.32050807568874,90.00000000000001 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="242" y="80" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Jaffna</text>
   </g>
   <g id="node-Mannar">
-    <path d="M132.7843780019399,229.63897723919217 L110.2843780019399,268.6101204094919 L65.28437800193991,268.6101204094919 L42.7843780019399,229.63897723919217 L65.28437800193987,190.66783406889243 L110.2843780019399,190.66783406889243 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="87.7843780019399" y="229.63897723919217" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Mannar</text>
+    <path d="M233.0,269.0 L215.67949192431124,259.0 L215.6794919243112,239.0 L233.0,229.0 L250.32050807568876,239.0 L250.32050807568876,259.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="233" y="249" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Mannar</text>
   </g>
   <g id="node-Vavuniya">
-    <path d="M221.87071948726248,242.93741179390864 L199.37071948726248,281.9085549642084 L154.37071948726248,281.9085549642084 L131.87071948726248,242.93741179390864 L154.37071948726245,203.9662686236089 L199.37071948726248,203.9662686236089 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="176.87071948726248" y="242.93741179390864" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Vavuniya</text>
+    <path d="M567.0,275.0 L549.6794919243113,265.0 L549.6794919243113,245.0 L567.0,235.0 L584.3205080756887,245.0 L584.3205080756887,265.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="567" y="255" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Vavuniya</text>
   </g>
   <g id="node-Mullaitivu">
-    <path d="M277.23432216543506,171.89257251547076 L254.73432216543506,210.8637156857705 L209.73432216543506,210.8637156857705 L187.23432216543506,171.89257251547076 L209.73432216543503,132.92142934517102 L254.73432216543506,132.92142934517102 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="232.23432216543506" y="171.89257251547076" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Mullaitivu</text>
+    <path d="M638.0,209.0 L620.6794919243113,199.0 L620.6794919243113,179.0 L638.0,169.0 L655.3205080756887,179.0 L655.3205080756887,199.00000000000003 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="638" y="189" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Mullaitivu</text>
   </g>
   <g id="node-Kilinochchi">
-    <path d="M189.883961405447,140.1736235382938 L167.383961405447,179.14476670859355 L122.38396140544701,179.14476670859355 L99.883961405447,140.1736235382938 L122.38396140544697,101.20248036799407 L167.383961405447,101.20248036799407 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="144.883961405447" y="140.1736235382938" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kilinochchi</text>
+    <path d="M422.0,157.0 L404.6794919243112,147.0 L404.6794919243112,127.00000000000001 L422.0,117.0 L439.3205080756888,126.99999999999999 L439.32050807568874,147.00000000000003 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="422" y="137" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kilinochchi</text>
   </g>
   <g id="node-Batticaloa">
-    <path d="M402.9873031536281,427.0660084511821 L380.4873031536281,466.0371516214818 L335.4873031536281,466.0371516214818 L312.9873031536281,427.0660084511821 L335.4873031536281,388.09486528088235 L380.4873031536281,388.09486528088235 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="357.9873031536281" y="427.0660084511821" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Batticaloa</text>
+    <path d="M1463.0,496.0 L1445.6794919243112,486.0 L1445.6794919243112,466.0 L1463.0,456.0 L1480.3205080756888,466.0 L1480.3205080756888,486.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1463" y="476" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Batticaloa</text>
   </g>
   <g id="node-Ampara">
-    <path d="M438.87450543139335,512.4050549390122 L416.37450543139335,551.3761981093119 L371.37450543139335,551.3761981093119 L348.87450543139335,512.4050549390122 L371.37450543139335,473.43391176871245 L416.37450543139335,473.43391176871245 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="393.87450543139335" y="512.4050549390122" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Ampara</text>
+    <path d="M1520.0,611.0 L1502.6794919243112,601.0 L1502.6794919243112,581.0 L1520.0,571.0 L1537.3205080756888,581.0 L1537.3205080756888,601.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1520" y="591" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Ampara</text>
   </g>
   <g id="node-Trincomalee">
-    <path d="M329.13364257011347,271.14534237988056 L306.63364257011347,310.1164855501803 L261.63364257011347,310.1164855501803 L239.13364257011347,271.14534237988056 L261.63364257011347,232.17419920958082 L306.63364257011347,232.17419920958082 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="284.13364257011347" y="271.14534237988056" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Trincomalee</text>
+    <path d="M1116.0,337.0 L1098.6794919243112,327.0 L1098.6794919243112,307.0 L1116.0,297.0 L1133.3205080756888,307.0 L1133.3205080756888,327.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1116" y="317" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Trincomalee</text>
   </g>
   <g id="node-Kurunegala">
-    <path d="M180.63384484871298,441.90250487534354 L158.13384484871298,480.8736480456433 L113.133844848713,480.8736480456433 L90.63384484871298,441.90250487534354 L113.13384484871295,402.9313617050438 L158.13384484871298,402.9313617050438 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="135.63384484871298" y="441.90250487534354" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kurunegala</text>
+    <path d="M364.0,522.0 L346.6794919243112,512.0 L346.6794919243112,492.0 L364.0,482.0 L381.3205080756888,492.0 L381.32050807568874,512.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="364" y="502" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kurunegala</text>
   </g>
   <g id="node-Puttalam">
-    <path d="M121.19166800732086,374.0931968854711 L98.69166800732086,413.06434005577086 L53.69166800732087,413.06434005577086 L31.191668007320857,374.0931968854711 L53.691668007320835,335.1220537151714 L98.69166800732086,335.1220537151714 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="76.19166800732086" y="374.0931968854711" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Puttalam</text>
+    <path d="M80.0,458.0 L62.67949192431123,448.0 L62.67949192431122,428.0 L80.0,418.0 L97.32050807568876,428.0 L97.32050807568876,448.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="80" y="438" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Puttalam</text>
   </g>
   <g id="node-Anuradhapura">
-    <path d="M227.89689372225263,332.7369684524414 L205.39689372225263,371.7081116227411 L160.39689372225263,371.7081116227411 L137.89689372225263,332.7369684524414 L160.3968937222526,293.76582528214163 L205.39689372225263,293.76582528214163 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="182.89689372225263" y="332.7369684524414" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Anuradhapura</text>
+    <path d="M607.0,371.0 L589.6794919243113,361.0 L589.6794919243113,341.0 L607.0,331.0 L624.3205080756887,341.0 L624.3205080756887,361.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="607" y="351" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Anuradhapura</text>
   </g>
   <g id="node-Polonnaruwa">
-    <path d="M342.6314395362801,360.1345481109724 L320.1314395362801,399.10569128127213 L275.1314395362801,399.10569128127213 L252.63143953628008,360.1345481109724 L275.1314395362801,321.16340494067265 L320.1314395362801,321.16340494067265 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="297.6314395362801" y="360.1345481109724" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Polonnaruwa</text>
+    <path d="M1058.0,454.0 L1040.6794919243112,444.0 L1040.6794919243112,424.0 L1058.0,414.0 L1075.3205080756888,424.0 L1075.3205080756888,444.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1058" y="434" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Polonnaruwa</text>
   </g>
   <g id="node-Badulla">
-    <path d="M348.8980126518826,515.8076082823312 L326.3980126518826,554.778751452631 L281.3980126518826,554.778751452631 L258.8980126518826,515.8076082823312 L281.3980126518826,476.8364651120315 L326.3980126518826,476.8364651120315 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="303.8980126518826" y="515.8076082823312" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Badulla</text>
+    <path d="M1075.0,645.0 L1057.6794919243112,635.0 L1057.6794919243112,615.0 L1075.0,605.0 L1092.3205080756888,615.0 L1092.3205080756888,635.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1075" y="625" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Badulla</text>
   </g>
   <g id="node-Moneragala">
-    <path d="M377.4254395557148,609.9188037666361 L354.9254395557148,648.8899469369358 L309.9254395557148,648.8899469369358 L287.4254395557148,609.9188037666361 L309.9254395557148,570.9476605963364 L354.9254395557148,570.9476605963364 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="332.4254395557148" y="609.9188037666361" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Moneragala</text>
+    <path d="M1303.0,705.0 L1285.6794919243112,695.0 L1285.6794919243112,675.0 L1303.0,665.0 L1320.3205080756888,675.0 L1320.3205080756888,695.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="1303" y="685" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Moneragala</text>
   </g>
   <g id="node-Ratnapura">
-    <path d="M239.21084324786918,661.1010769407494 L216.71084324786918,700.0722201110491 L171.71084324786918,700.0722201110491 L149.21084324786918,661.1010769407494 L171.71084324786915,622.1299337704497 L216.71084324786918,622.1299337704497 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="194.21084324786918" y="661.1010769407494" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Ratnapura</text>
+    <path d="M653.0,747.0 L635.6794919243113,737.0 L635.6794919243113,717.0 L653.0,707.0 L670.3205080756887,717.0 L670.3205080756887,737.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="653" y="727" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Ratnapura</text>
   </g>
   <g id="node-Kegalle">
-    <path d="M184.63287048651114,551.8142244447 L162.13287048651114,590.7853676149998 L117.13287048651115,590.7853676149998 L94.63287048651114,551.8142244447 L117.13287048651111,512.8430812744003 L162.13287048651114,512.8430812744002 Z" fill="maroon" fill-opacity="0.5" stroke="black" stroke-width="5"/>
-    <text x="139.63287048651114" y="551.8142244447" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kegalle</text>
+    <path d="M457.0,639.0 L439.6794919243112,629.0 L439.6794919243112,609.0 L457.0,599.0 L474.3205080756888,609.0 L474.32050807568874,629.0 Z" fill="maroon" fill-opacity="0.5" stroke="white" stroke-width="3"/>
+    <text x="457" y="619" stroke="none" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="10">Kegalle</text>
   </g>
 </svg>

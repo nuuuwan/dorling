@@ -1,0 +1,1739 @@
+[
+  {
+    "alpha3": "AFG",
+    "common_name": "Afghanistan",
+    "capital_latlng": [
+      33,
+      65
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "AGO",
+    "common_name": "Angola",
+    "capital_latlng": [
+      -12.5,
+      18.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ALB",
+    "common_name": "Albania",
+    "capital_latlng": [
+      41,
+      20
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "AND",
+    "common_name": "Andorra",
+    "capital_latlng": [
+      42.5,
+      1.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ARE",
+    "common_name": "United Arab Emirates",
+    "capital_latlng": [
+      24,
+      54
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ARG",
+    "common_name": "Argentina",
+    "capital_latlng": [
+      -34,
+      -64
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ARM",
+    "common_name": "Armenia",
+    "capital_latlng": [
+      40,
+      45
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ATG",
+    "common_name": "Antigua and Barbuda",
+    "capital_latlng": [
+      17.05,
+      -61.8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "AUS",
+    "common_name": "Australia",
+    "capital_latlng": [
+      -27,
+      133
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "AUT",
+    "common_name": "Austria",
+    "capital_latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "AZE",
+    "common_name": "Azerbaijan",
+    "capital_latlng": [
+      40.5,
+      47.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BDI",
+    "common_name": "Burundi",
+    "capital_latlng": [
+      -3.5,
+      30
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "BEL",
+    "common_name": "Belgium",
+    "capital_latlng": [
+      50.83333333,
+      4
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BEN",
+    "common_name": "Benin",
+    "capital_latlng": [
+      9.5,
+      2.25
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "BFA",
+    "common_name": "Burkina Faso",
+    "capital_latlng": [
+      13,
+      -2
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "BGD",
+    "common_name": "Bangladesh",
+    "capital_latlng": [
+      24,
+      90
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BGR",
+    "common_name": "Bulgaria",
+    "capital_latlng": [
+      43,
+      25
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "BHR",
+    "common_name": "Bahrain",
+    "capital_latlng": [
+      26,
+      50.55
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BHS",
+    "common_name": "Bahamas",
+    "capital_latlng": [
+      25.0343,
+      -77.3963
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BIH",
+    "common_name": "Bosnia and Herzegovina",
+    "capital_latlng": [
+      44,
+      18
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BLR",
+    "common_name": "Belarus",
+    "capital_latlng": [
+      53,
+      28
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BLZ",
+    "common_name": "Belize",
+    "capital_latlng": [
+      17.25,
+      -88.75
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BOL",
+    "common_name": "Bolivia",
+    "capital_latlng": [
+      -17,
+      -65
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BRA",
+    "common_name": "Brazil",
+    "capital_latlng": [
+      -10,
+      -55
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BRB",
+    "common_name": "Barbados",
+    "capital_latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BRN",
+    "common_name": "Brunei",
+    "capital_latlng": [
+      4.5,
+      114.66666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BTN",
+    "common_name": "Bhutan",
+    "capital_latlng": [
+      27.5,
+      90.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "BWA",
+    "common_name": "Botswana",
+    "capital_latlng": [
+      -22,
+      24
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CAF",
+    "common_name": "Central African Republic",
+    "capital_latlng": [
+      7,
+      21
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CAN",
+    "common_name": "Canada",
+    "capital_latlng": [
+      60,
+      -95
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "CHE",
+    "common_name": "Switzerland",
+    "capital_latlng": [
+      47,
+      8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CHL",
+    "common_name": "Chile",
+    "capital_latlng": [
+      -30,
+      -71
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CHN",
+    "common_name": "China",
+    "capital_latlng": [
+      35,
+      105
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CIV",
+    "common_name": "Ivory Coast",
+    "capital_latlng": [
+      8,
+      -5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CMR",
+    "common_name": "Cameroon",
+    "capital_latlng": [
+      6,
+      12
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "COD",
+    "common_name": "DR Congo",
+    "capital_latlng": [
+      0,
+      25
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "COG",
+    "common_name": "Republic of the Congo",
+    "capital_latlng": [
+      -1,
+      15
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "COL",
+    "common_name": "Colombia",
+    "capital_latlng": [
+      4,
+      -72
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "COM",
+    "common_name": "Comoros",
+    "capital_latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CPV",
+    "common_name": "Cape Verde",
+    "capital_latlng": [
+      16.5388,
+      23.0418
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "CRI",
+    "common_name": "Costa Rica",
+    "capital_latlng": [
+      10,
+      -84
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CUB",
+    "common_name": "Cuba",
+    "capital_latlng": [
+      21.5,
+      -80
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "CYP",
+    "common_name": "Cyprus",
+    "capital_latlng": [
+      35,
+      33
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "CZE",
+    "common_name": "Czechia",
+    "capital_latlng": [
+      49.75,
+      15.5
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "DEU",
+    "common_name": "Germany",
+    "capital_latlng": [
+      51,
+      9
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "DJI",
+    "common_name": "Djibouti",
+    "capital_latlng": [
+      11.5,
+      43
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "DMA",
+    "common_name": "Dominica",
+    "capital_latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "DNK",
+    "common_name": "Denmark",
+    "capital_latlng": [
+      56,
+      10
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "DOM",
+    "common_name": "Dominican Republic",
+    "capital_latlng": [
+      19,
+      -70.66666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "DZA",
+    "common_name": "Algeria",
+    "capital_latlng": [
+      28,
+      3
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ECU",
+    "common_name": "Ecuador",
+    "capital_latlng": [
+      -2,
+      -77.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "EGY",
+    "common_name": "Egypt",
+    "capital_latlng": [
+      27,
+      30
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ERI",
+    "common_name": "Eritrea",
+    "capital_latlng": [
+      15,
+      39
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ESP",
+    "common_name": "Spain",
+    "capital_latlng": [
+      40,
+      -4
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "EST",
+    "common_name": "Estonia",
+    "capital_latlng": [
+      59,
+      26
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "ETH",
+    "common_name": "Ethiopia",
+    "capital_latlng": [
+      8,
+      38
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "FIN",
+    "common_name": "Finland",
+    "capital_latlng": [
+      64,
+      26
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "FJI",
+    "common_name": "Fiji",
+    "capital_latlng": [
+      17.7134,
+      178.065
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "FRA",
+    "common_name": "France",
+    "capital_latlng": [
+      46,
+      2
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "FSM",
+    "common_name": "Micronesia",
+    "capital_latlng": [
+      6.91666666,
+      158.25
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "GAB",
+    "common_name": "Gabon",
+    "capital_latlng": [
+      -1,
+      11.75
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "GBR",
+    "common_name": "United Kingdom",
+    "capital_latlng": [
+      54,
+      -2
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "GEO",
+    "common_name": "Georgia",
+    "capital_latlng": [
+      42,
+      43.5
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "GHA",
+    "common_name": "Ghana",
+    "capital_latlng": [
+      8,
+      -2
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "GIN",
+    "common_name": "Guinea",
+    "capital_latlng": [
+      11,
+      -10
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "GMB",
+    "common_name": "Gambia",
+    "capital_latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "GNQ",
+    "common_name": "Equatorial Guinea",
+    "capital_latlng": [
+      2,
+      10
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "GRC",
+    "common_name": "Greece",
+    "capital_latlng": [
+      39,
+      22
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "GRD",
+    "common_name": "Grenada",
+    "capital_latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "GTM",
+    "common_name": "Guatemala",
+    "capital_latlng": [
+      15.5,
+      -90.25
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "GUY",
+    "common_name": "Guyana",
+    "capital_latlng": [
+      5,
+      -59
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "HND",
+    "common_name": "Honduras",
+    "capital_latlng": [
+      15,
+      -86.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "HRV",
+    "common_name": "Croatia",
+    "capital_latlng": [
+      45.16666666,
+      15.5
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "HTI",
+    "common_name": "Haiti",
+    "capital_latlng": [
+      19,
+      -72.41666666
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "HUN",
+    "common_name": "Hungary",
+    "capital_latlng": [
+      47,
+      20
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "IDN",
+    "common_name": "Indonesia",
+    "capital_latlng": [
+      -5,
+      120
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "IND",
+    "common_name": "India",
+    "capital_latlng": [
+      20,
+      77
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "IRL",
+    "common_name": "Ireland",
+    "capital_latlng": [
+      53,
+      -8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "IRN",
+    "common_name": "Iran",
+    "capital_latlng": [
+      32,
+      53
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "IRQ",
+    "common_name": "Iraq",
+    "capital_latlng": [
+      33,
+      44
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "ISL",
+    "common_name": "Iceland",
+    "capital_latlng": [
+      65,
+      -18
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "ISR",
+    "common_name": "Israel",
+    "capital_latlng": [
+      31.47,
+      35.13
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "ITA",
+    "common_name": "Italy",
+    "capital_latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "JAM",
+    "common_name": "Jamaica",
+    "capital_latlng": [
+      18.25,
+      -77.5
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "JOR",
+    "common_name": "Jordan",
+    "capital_latlng": [
+      31,
+      36
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "JPN",
+    "common_name": "Japan",
+    "capital_latlng": [
+      36,
+      138
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "KAZ",
+    "common_name": "Kazakhstan",
+    "capital_latlng": [
+      48.0196,
+      66.9237
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "KEN",
+    "common_name": "Kenya",
+    "capital_latlng": [
+      1,
+      38
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "KGZ",
+    "common_name": "Kyrgyzstan",
+    "capital_latlng": [
+      41,
+      75
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "KHM",
+    "common_name": "Cambodia",
+    "capital_latlng": [
+      13,
+      105
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "KIR",
+    "common_name": "Kiribati",
+    "capital_latlng": [
+      1.41666666,
+      173
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "KNA",
+    "common_name": "Saint Kitts and Nevis",
+    "capital_latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "KOR",
+    "common_name": "South Korea",
+    "capital_latlng": [
+      37,
+      127.5
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "KWT",
+    "common_name": "Kuwait",
+    "capital_latlng": [
+      29.5,
+      45.75
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LAO",
+    "common_name": "Laos",
+    "capital_latlng": [
+      18,
+      105
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LBN",
+    "common_name": "Lebanon",
+    "capital_latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LBR",
+    "common_name": "Liberia",
+    "capital_latlng": [
+      6.5,
+      -9.5
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "LBY",
+    "common_name": "Libya",
+    "capital_latlng": [
+      25,
+      17
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LCA",
+    "common_name": "Saint Lucia",
+    "capital_latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LIE",
+    "common_name": "Liechtenstein",
+    "capital_latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LKA",
+    "common_name": "Sri Lanka",
+    "capital_latlng": [
+      7,
+      81
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LSO",
+    "common_name": "Lesotho",
+    "capital_latlng": [
+      -29.5,
+      28.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LTU",
+    "common_name": "Lithuania",
+    "capital_latlng": [
+      56,
+      24
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "LUX",
+    "common_name": "Luxembourg",
+    "capital_latlng": [
+      49.75,
+      6.16666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "LVA",
+    "common_name": "Latvia",
+    "capital_latlng": [
+      57,
+      25
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "MAR",
+    "common_name": "Morocco",
+    "capital_latlng": [
+      32,
+      -5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MCO",
+    "common_name": "Monaco",
+    "capital_latlng": [
+      43.73333333,
+      7.4
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "MDA",
+    "common_name": "Moldova",
+    "capital_latlng": [
+      47,
+      29
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "MDG",
+    "common_name": "Madagascar",
+    "capital_latlng": [
+      -20,
+      47
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MDV",
+    "common_name": "Maldives",
+    "capital_latlng": [
+      3.25,
+      73
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MEX",
+    "common_name": "Mexico",
+    "capital_latlng": [
+      23,
+      -102
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MHL",
+    "common_name": "Marshall Islands",
+    "capital_latlng": [
+      9,
+      168
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "MKD",
+    "common_name": "North Macedonia",
+    "capital_latlng": [
+      41.83333333,
+      22
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "MLI",
+    "common_name": "Mali",
+    "capital_latlng": [
+      17,
+      -4
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MLT",
+    "common_name": "Malta",
+    "capital_latlng": [
+      35.9375,
+      14.3754
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MMR",
+    "common_name": "Myanmar",
+    "capital_latlng": [
+      22,
+      98
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MNE",
+    "common_name": "Montenegro",
+    "capital_latlng": [
+      42.5,
+      19.3
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MNG",
+    "common_name": "Mongolia",
+    "capital_latlng": [
+      46,
+      105
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MOZ",
+    "common_name": "Mozambique",
+    "capital_latlng": [
+      -18.25,
+      35
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MRT",
+    "common_name": "Mauritania",
+    "capital_latlng": [
+      20,
+      -12
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MUS",
+    "common_name": "Mauritius",
+    "capital_latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MWI",
+    "common_name": "Malawi",
+    "capital_latlng": [
+      -13.5,
+      34
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "MYS",
+    "common_name": "Malaysia",
+    "capital_latlng": [
+      2.5,
+      112.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NAM",
+    "common_name": "Namibia",
+    "capital_latlng": [
+      -22,
+      17
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NER",
+    "common_name": "Niger",
+    "capital_latlng": [
+      16,
+      8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NGA",
+    "common_name": "Nigeria",
+    "capital_latlng": [
+      10,
+      8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NIC",
+    "common_name": "Nicaragua",
+    "capital_latlng": [
+      13,
+      -85
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NLD",
+    "common_name": "Netherlands",
+    "capital_latlng": [
+      52.5,
+      5.75
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "NOR",
+    "common_name": "Norway",
+    "capital_latlng": [
+      62,
+      10
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NPL",
+    "common_name": "Nepal",
+    "capital_latlng": [
+      28,
+      84
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "NRU",
+    "common_name": "Nauru",
+    "capital_latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "NZL",
+    "common_name": "New Zealand",
+    "capital_latlng": [
+      -41,
+      174
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "OMN",
+    "common_name": "Oman",
+    "capital_latlng": [
+      21,
+      57
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "PAK",
+    "common_name": "Pakistan",
+    "capital_latlng": [
+      30,
+      70
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "PAN",
+    "common_name": "Panama",
+    "capital_latlng": [
+      9,
+      -80
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "PER",
+    "common_name": "Peru",
+    "capital_latlng": [
+      -10,
+      -76
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "PHL",
+    "common_name": "Philippines",
+    "capital_latlng": [
+      13,
+      122
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "PLW",
+    "common_name": "Palau",
+    "capital_latlng": [
+      7.5,
+      134.5
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "PNG",
+    "common_name": "Papua New Guinea",
+    "capital_latlng": [
+      -6,
+      147
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "POL",
+    "common_name": "Poland",
+    "capital_latlng": [
+      52,
+      20
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "PRK",
+    "common_name": "North Korea",
+    "capital_latlng": [
+      40,
+      127
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "PRT",
+    "common_name": "Portugal",
+    "capital_latlng": [
+      39.5,
+      -8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "PRY",
+    "common_name": "Paraguay",
+    "capital_latlng": [
+      -23,
+      -58
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "QAT",
+    "common_name": "Qatar",
+    "capital_latlng": [
+      25.5,
+      51.25
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ROU",
+    "common_name": "Romania",
+    "capital_latlng": [
+      46,
+      25
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "RUS",
+    "common_name": "Russia",
+    "capital_latlng": [
+      60,
+      100
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "RWA",
+    "common_name": "Rwanda",
+    "capital_latlng": [
+      -2,
+      30
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "SAU",
+    "common_name": "Saudi Arabia",
+    "capital_latlng": [
+      25,
+      45
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SDN",
+    "common_name": "Sudan",
+    "capital_latlng": [
+      15,
+      30
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SEN",
+    "common_name": "Senegal",
+    "capital_latlng": [
+      14,
+      -14
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SGP",
+    "common_name": "Singapore",
+    "capital_latlng": [
+      1.36666666,
+      103.8
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SLB",
+    "common_name": "Solomon Islands",
+    "capital_latlng": [
+      -8,
+      159
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SLE",
+    "common_name": "Sierra Leone",
+    "capital_latlng": [
+      8.5,
+      -11.5
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SLV",
+    "common_name": "El Salvador",
+    "capital_latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SMR",
+    "common_name": "San Marino",
+    "capital_latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "SOM",
+    "common_name": "Somalia",
+    "capital_latlng": [
+      10,
+      49
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SRB",
+    "common_name": "Serbia",
+    "capital_latlng": [
+      44,
+      21
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "SSD",
+    "common_name": "South Sudan",
+    "capital_latlng": [
+      7,
+      30
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "STP",
+    "common_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "capital_latlng": [
+      1,
+      7
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "SUR",
+    "common_name": "Suriname",
+    "capital_latlng": [
+      4,
+      -56
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SVK",
+    "common_name": "Slovakia",
+    "capital_latlng": [
+      48.66666666,
+      19.5
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "SVN",
+    "common_name": "Slovenia",
+    "capital_latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "SWE",
+    "common_name": "Sweden",
+    "capital_latlng": [
+      62,
+      15
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "SWZ",
+    "common_name": "Eswatini",
+    "capital_latlng": [
+      -26.5,
+      31.5
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "SYC",
+    "common_name": "Seychelles",
+    "capital_latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "SYR",
+    "common_name": "Syria",
+    "capital_latlng": [
+      35,
+      38
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TCD",
+    "common_name": "Chad",
+    "capital_latlng": [
+      15,
+      19
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TGO",
+    "common_name": "Togo",
+    "capital_latlng": [
+      8,
+      1.16666666
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "THA",
+    "common_name": "Thailand",
+    "capital_latlng": [
+      15,
+      100
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TJK",
+    "common_name": "Tajikistan",
+    "capital_latlng": [
+      39,
+      71
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TKM",
+    "common_name": "Turkmenistan",
+    "capital_latlng": [
+      40,
+      60
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "TLS",
+    "common_name": "Timor-Leste",
+    "capital_latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TON",
+    "common_name": "Tonga",
+    "capital_latlng": [
+      -20,
+      -175
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "TTO",
+    "common_name": "Trinidad and Tobago",
+    "capital_latlng": [
+      10.6918,
+      -61.2225
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TUN",
+    "common_name": "Tunisia",
+    "capital_latlng": [
+      34,
+      9
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "TUR",
+    "common_name": "Turkey",
+    "capital_latlng": [
+      39,
+      35
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "TUV",
+    "common_name": "Tuvalu",
+    "capital_latlng": [
+      -8,
+      178
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "TZA",
+    "common_name": "Tanzania",
+    "capital_latlng": [
+      -6,
+      35
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "UGA",
+    "common_name": "Uganda",
+    "capital_latlng": [
+      1,
+      32
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "UKR",
+    "common_name": "Ukraine",
+    "capital_latlng": [
+      49,
+      32
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "URY",
+    "common_name": "Uruguay",
+    "capital_latlng": [
+      -33,
+      -56
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "USA",
+    "common_name": "United States",
+    "capital_latlng": [
+      38,
+      -97
+    ],
+    "color": "red"
+  },
+  {
+    "alpha3": "UZB",
+    "common_name": "Uzbekistan",
+    "capital_latlng": [
+      41,
+      64
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "VAT",
+    "common_name": "Vatican City",
+    "capital_latlng": [
+      41.9,
+      12.45
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "VCT",
+    "common_name": "Saint Vincent and the Grenadines",
+    "capital_latlng": [
+      13.25,
+      -61.2
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "VEN",
+    "common_name": "Venezuela",
+    "capital_latlng": [
+      8,
+      -66
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "VNM",
+    "common_name": "Vietnam",
+    "capital_latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "VUT",
+    "common_name": "Vanuatu",
+    "capital_latlng": [
+      -16,
+      167
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "WSM",
+    "common_name": "Samoa",
+    "capital_latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "color": "gray"
+  },
+  {
+    "alpha3": "YEM",
+    "common_name": "Yemen",
+    "capital_latlng": [
+      15,
+      48
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ZAF",
+    "common_name": "South Africa",
+    "capital_latlng": [
+      -29,
+      24
+    ],
+    "color": "green"
+  },
+  {
+    "alpha3": "ZMB",
+    "common_name": "Zambia",
+    "capital_latlng": [
+      -15,
+      30
+    ],
+    "color": "orange"
+  },
+  {
+    "alpha3": "ZWE",
+    "common_name": "Zimbabwe",
+    "capital_latlng": [
+      -20,
+      30
+    ],
+    "color": "green"
+  }
+]

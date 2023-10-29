@@ -4,45 +4,57 @@ from utils import Log, xmlx
 
 _ = xmlx._  # HACK! This needs to be fixed.
 
-SVG_WIDTH, SVG_HEIGHT = 450, 800
-RADIUS = 45
-PADDING = RADIUS * 2
-MAX_EPOCHS = 1_000
+SVG_WIDTH, SVG_HEIGHT = 1600, 900
+RADIUS = 20
+PADDING = RADIUS * 4
+MAX_EPOCHS = 10_000
 
-STYLE_SHAPE = dict(fill_opacity=0.5, stroke='black', stroke_width=5)
-
+STYLE_SHAPE = dict(fill_opacity=0.5, stroke='white', stroke_width=3)
+N_POLYGON = 6
 log = Log('Dorl')
 
 
 class Dorl:
     def __init__(self, config: list[dict]):
         self.config = config
-        self.transformed_config = Dorl.pack(
+        self.transformed_config = Dorl.unpack(
             Dorl.transform(self.config, self.get_t())
         )
 
     @staticmethod
-    def pack(config: list[dict]) -> list[dict]:
-        EPSILON = 0.001
-        for i in range(MAX_EPOCHS):
-            log.debug(f'epoch {i}')
-            did_pack = False
-            for d1 in config:
+    def norm(x, y):
+        x = max(PADDING, min(SVG_WIDTH - PADDING, x))
+        y = max(PADDING, min(SVG_HEIGHT - PADDING, y))
+        return x, y
+
+    @staticmethod
+    def unpack(config: list[dict]) -> list[dict]:
+        EPSILON = 0.01
+        n_config = len(config)
+        for i in range(0, MAX_EPOCHS):
+            n_unpack = 0
+            for i1 in range(0, n_config - 1):
+                d1 = config[i1]
                 x1, y1 = d1['centroid']
-                for d2 in config:
-                    if d1 is d2:
-                        continue
+                for i2 in range(i1 + 1, n_config):
+                    d2 = config[i2]
                     x2, y2 = d2['centroid']
                     dx, dy = x2 - x1, y2 - y1
                     dis = (dx**2 + dy**2) ** 0.5
                     if dis > RADIUS * 2:
                         continue
 
-                    # pack
-                    d1['centroid'] = (x1 - dx * EPSILON, y1 - dy * EPSILON)
-                    d2['centroid'] = (x2 + dx * EPSILON, y2 + dy * EPSILON)
-                    did_pack = True
-            if not did_pack:
+                    # unpack
+                    d1['centroid'] = Dorl.norm(
+                        x1 - dx * EPSILON, y1 - dy * EPSILON
+                    )
+                    d2['centroid'] = Dorl.norm(
+                        x2 + dx * EPSILON, y2 + dy * EPSILON
+                    )
+                    n_unpack += 1
+
+            log.debug(f'{i=}, {n_unpack=}')
+            if n_unpack == 0:
                 break
         return config
 
@@ -74,9 +86,10 @@ class Dorl:
 
         def t(lat, lng):
             px, py = (lng - min_lng) / lng_span, (lat - min_lat) / lat_span
-            return int(px * (SVG_WIDTH - PADDING * 2) + PADDING), int(
-                (1 - py) * (SVG_HEIGHT - PADDING * 2) + PADDING
-            )
+            x = int(px * (SVG_WIDTH - PADDING * 2) + PADDING)
+            y = int((1 - py) * (SVG_HEIGHT - PADDING * 2) + PADDING)
+            nx, ny = Dorl.norm(x, y)
+            return nx, ny
 
         return t
 
@@ -97,10 +110,11 @@ class Dorl:
     @staticmethod
     def render_polygon(x, y, r, color, n):
         d_list = []
+        OFFSET = 1.0 / 2
         for i in range(n):
-            x1, y1 = x + r * math.cos(2 * math.pi * i / n), y + r * math.sin(
-                2 * math.pi * i / n
-            )
+            theta = math.pi * (2 * (i / n) + OFFSET)
+            x1 = x + r * math.cos(theta)
+            y1 = y + r * math.sin(theta)
             cmd = 'M' if i == 0 else 'L'
             d_list.append(f'{cmd}{x1},{y1}')
 
@@ -118,17 +132,18 @@ class Dorl:
 
     @staticmethod
     def render_shape(x, y, r, color):
-        return Dorl.render_polygon(x, y, r, color, 6)
+        return Dorl.render_polygon(x, y, r, color, N_POLYGON)
 
     def render_node(self, d):
         x, y = d['centroid']
+        label = d['name']
         return _(
             'g',
             [
                 Dorl.render_shape(x, y, RADIUS, d['color']),
                 _(
                     'text',
-                    d['name'],
+                    label,
                     dict(
                         x=x,
                         y=y,
